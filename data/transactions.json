@@ -1,0 +1,3698 @@
+[
+  {
+    "id": "c90a3335-d0fe-48c8-80ea-e5c343e75ad1",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 199.62,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-03T12:37:35.334629+00:00"
+  },
+  {
+    "id": "dc2d1a04-f5f9-4d53-bec6-e7941dfb9012",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 210.01,
+    "merchant": "Marriott",
+    "country": "FR",
+    "timestamp": "2026-10-03T13:27:35.334629+00:00"
+  },
+  {
+    "id": "302e102c-f03f-4055-bb98-808cf274caa6",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 266.95,
+    "merchant": "Costco",
+    "country": "IN",
+    "timestamp": "2026-10-03T13:57:35.334629+00:00"
+  },
+  {
+    "id": "b0a1e0f5-6c1d-4f0b-9a7a-cc220946d0c6",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 166.42,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-03T14:29:35.334629+00:00"
+  },
+  {
+    "id": "d03730c5-88fb-4fb8-9e3d-ba4e91867cc8",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 293.96,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-03T15:05:35.334629+00:00"
+  },
+  {
+    "id": "a67d3bf7-b6f2-4901-b1d4-ca5def550e79",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 124.03,
+    "merchant": "Apple Store",
+    "country": "AU",
+    "timestamp": "2026-10-03T15:13:35.334629+00:00"
+  },
+  {
+    "id": "2179187e-7e77-4e5e-89d4-6625c867348d",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 112.74,
+    "merchant": "Uber",
+    "country": "AU",
+    "timestamp": "2026-10-03T15:30:35.334629+00:00"
+  },
+  {
+    "id": "16a458cb-4ea9-4e46-bd51-a9bc9800e9d1",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 237.69,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-03T15:41:35.334629+00:00"
+  },
+  {
+    "id": "c8b44e88-153a-49a5-80f0-7730381fcef0",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 106.18,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-03T15:58:35.334629+00:00"
+  },
+  {
+    "id": "d8e3def1-aa3b-4870-b54d-1c1803d587ea",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 50.8,
+    "merchant": "Steam",
+    "country": "GB",
+    "timestamp": "2026-10-03T17:22:35.334629+00:00"
+  },
+  {
+    "id": "74dc2d07-8cfb-423b-9a10-5c3c42c6e138",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 110.03,
+    "merchant": "DoorDash",
+    "country": "US",
+    "timestamp": "2026-10-03T17:25:35.334629+00:00"
+  },
+  {
+    "id": "38633820-a8ee-45a5-a350-9e02ee10bb81",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 119.0,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-03T18:13:35.334629+00:00"
+  },
+  {
+    "id": "9daea1ab-1a51-4d38-b89e-3fc4f68bb295",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 110.4,
+    "merchant": "Delta Airlines",
+    "country": "FR",
+    "timestamp": "2026-10-03T21:12:35.334629+00:00"
+  },
+  {
+    "id": "7be530da-0ecf-48d7-81d9-b301c97f3996",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 95.36,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-03T21:26:35.334629+00:00"
+  },
+  {
+    "id": "63400563-62db-47c3-8bb7-ac68338410a3",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 239.88,
+    "merchant": "Netflix",
+    "country": "US",
+    "timestamp": "2026-10-03T21:56:35.334629+00:00"
+  },
+  {
+    "id": "f5a2268f-4628-4577-b084-243fb50cfa13",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 134.56,
+    "merchant": "Netflix",
+    "country": "IN",
+    "timestamp": "2026-10-03T22:01:35.334629+00:00"
+  },
+  {
+    "id": "1733b0cf-6fc2-496b-9d09-493623d91adf",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 60.27,
+    "merchant": "Amazon",
+    "country": "CA",
+    "timestamp": "2026-10-03T23:03:35.334629+00:00"
+  },
+  {
+    "id": "f380381f-649c-4683-9682-7cba0a616512",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 162.24,
+    "merchant": "Delta Airlines",
+    "country": "FR",
+    "timestamp": "2026-10-04T00:06:35.334629+00:00"
+  },
+  {
+    "id": "7bb56386-b5b2-44e0-965d-874730a23301",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 211.53,
+    "merchant": "Apple Store",
+    "country": "AU",
+    "timestamp": "2026-10-04T01:17:35.334629+00:00"
+  },
+  {
+    "id": "47ddfd50-c6bc-43d7-a83c-eb2c4fd14dcf",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 7897.71,
+    "merchant": "Home Depot",
+    "country": "RU",
+    "timestamp": "2026-10-04T01:20:35.334629+00:00"
+  },
+  {
+    "id": "fcc636b2-4e64-43c6-b0d2-8431b0a51523",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 134.46,
+    "merchant": "Costco",
+    "country": "US",
+    "timestamp": "2026-10-04T02:56:35.334629+00:00"
+  },
+  {
+    "id": "bc3252ef-a2b2-4665-a4d2-e9d056c70f51",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 60.33,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-04T03:15:35.334629+00:00"
+  },
+  {
+    "id": "880f49a6-8871-478a-aa31-e1a3ee8701ac",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 140.24,
+    "merchant": "Marriott",
+    "country": "US",
+    "timestamp": "2026-10-04T05:47:35.334629+00:00"
+  },
+  {
+    "id": "6093f100-b79e-4964-afc8-e51758b9f7b5",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 203.44,
+    "merchant": "Target",
+    "country": "CA",
+    "timestamp": "2026-10-04T06:04:35.334629+00:00"
+  },
+  {
+    "id": "82ccd7e1-913c-43d3-8ef4-40571bf0a492",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 174.42,
+    "merchant": "Uber",
+    "country": "US",
+    "timestamp": "2026-10-04T06:17:35.334629+00:00"
+  },
+  {
+    "id": "78fb4fa4-128b-4f31-8d12-b590d81a340e",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 199.49,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-04T06:25:35.334629+00:00"
+  },
+  {
+    "id": "f13c688a-6f65-429f-9050-39a3ef69bf81",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 122.22,
+    "merchant": "Marriott",
+    "country": "US",
+    "timestamp": "2026-10-04T07:48:35.334629+00:00"
+  },
+  {
+    "id": "9f06edc7-739e-478c-bf01-2588e230f68b",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 232.78,
+    "merchant": "Amazon",
+    "country": "DE",
+    "timestamp": "2026-10-04T08:30:35.334629+00:00"
+  },
+  {
+    "id": "c9f3e00a-d2a7-492a-9b90-e4357ec8bc4a",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 233.08,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-04T08:55:35.334629+00:00"
+  },
+  {
+    "id": "4309bdd5-4826-4b93-8eca-243f6489a4a3",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 148.06,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-04T09:50:35.334629+00:00"
+  },
+  {
+    "id": "0bb5976a-4292-4c98-ba22-7cf12978d6d7",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 78.95,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-04T10:05:35.334629+00:00"
+  },
+  {
+    "id": "ee2bf11e-0ba2-4cd6-ae09-cd53bc8e0e3e",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 102.42,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-04T10:06:35.334629+00:00"
+  },
+  {
+    "id": "04680cdd-667b-464c-976f-143213aeaf79",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 90.7,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-04T11:02:35.334629+00:00"
+  },
+  {
+    "id": "013c6f3b-c31e-4d97-b916-aec6215c2f72",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 202.11,
+    "merchant": "Steam",
+    "country": "AU",
+    "timestamp": "2026-10-04T12:12:35.334629+00:00"
+  },
+  {
+    "id": "7768e504-d76c-469d-b76a-e7fa9adae51c",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 99.29,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-04T13:44:35.334629+00:00"
+  },
+  {
+    "id": "460fb1b4-d201-4727-b2f5-ca3c1dba721d",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 99.51,
+    "merchant": "Marriott",
+    "country": "IN",
+    "timestamp": "2026-10-04T14:34:35.334629+00:00"
+  },
+  {
+    "id": "a0731afe-387d-48d5-8ec5-2a2c37d4fa52",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 67.22,
+    "merchant": "Apple Store",
+    "country": "CA",
+    "timestamp": "2026-10-04T15:15:35.334629+00:00"
+  },
+  {
+    "id": "b4377da8-e6e9-443e-aca4-f569ccf36028",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 282.22,
+    "merchant": "Uber",
+    "country": "DE",
+    "timestamp": "2026-10-04T16:32:35.334629+00:00"
+  },
+  {
+    "id": "fee76fbe-e70e-48e8-9b9b-f3655f5a7030",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 239.09,
+    "merchant": "Starbucks",
+    "country": "FR",
+    "timestamp": "2026-10-04T17:04:35.334629+00:00"
+  },
+  {
+    "id": "5c6a747c-ae60-4c9d-b94e-51ab266690a9",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 92.44,
+    "merchant": "Starbucks",
+    "country": "CA",
+    "timestamp": "2026-10-04T17:09:35.334629+00:00"
+  },
+  {
+    "id": "223ac5c5-df4b-4669-8235-31d934fe9426",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 78.65,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-04T17:56:35.334629+00:00"
+  },
+  {
+    "id": "1910d21b-759b-4fdb-a29e-86b318bf0505",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 160.32,
+    "merchant": "DoorDash",
+    "country": "US",
+    "timestamp": "2026-10-04T18:11:35.334629+00:00"
+  },
+  {
+    "id": "44085712-e8e2-46af-a8e1-b6e038613e55",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 171.83,
+    "merchant": "Amazon",
+    "country": "US",
+    "timestamp": "2026-10-04T18:13:35.334629+00:00"
+  },
+  {
+    "id": "85881493-a18d-48b6-b4e5-a5dfb69d4168",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 251.59,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-04T18:46:35.334629+00:00"
+  },
+  {
+    "id": "ea8a4c35-8a35-4c5e-a823-3997692fac61",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 246.47,
+    "merchant": "DoorDash",
+    "country": "DE",
+    "timestamp": "2026-10-04T19:46:35.334629+00:00"
+  },
+  {
+    "id": "30a3f4b1-d4db-4cea-b298-74cfff500f34",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 150.3,
+    "merchant": "Delta Airlines",
+    "country": "CA",
+    "timestamp": "2026-10-04T20:41:35.334629+00:00"
+  },
+  {
+    "id": "1ae5dd74-6e61-4633-a1fb-b0caa3b921d5",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 138.95,
+    "merchant": "Amazon",
+    "country": "DE",
+    "timestamp": "2026-10-04T21:00:35.334629+00:00"
+  },
+  {
+    "id": "5ba60a99-161d-4ec2-bbf6-4d494652ec91",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 120.87,
+    "merchant": "Apple Store",
+    "country": "US",
+    "timestamp": "2026-10-04T21:01:35.334629+00:00"
+  },
+  {
+    "id": "29d78810-867d-45f0-a6d7-6d4cb0f867e9",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 92.52,
+    "merchant": "Uber",
+    "country": "GB",
+    "timestamp": "2026-10-04T21:39:35.334629+00:00"
+  },
+  {
+    "id": "458471f4-e22a-461b-bc44-270ca2c81dfa",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 272.9,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-04T21:41:35.334629+00:00"
+  },
+  {
+    "id": "161c7d29-7500-4500-beb6-2f06b0b96231",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 205.27,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-04T21:52:35.334629+00:00"
+  },
+  {
+    "id": "74b4a26f-2ec4-4fa1-8971-05b7ef1e1293",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 157.51,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-04T21:54:35.334629+00:00"
+  },
+  {
+    "id": "1a0306ec-c5a9-42d1-8fa0-02a94eb15190",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 118.67,
+    "merchant": "Shell",
+    "country": "CA",
+    "timestamp": "2026-10-05T00:49:35.334629+00:00"
+  },
+  {
+    "id": "b69f38eb-2fac-4a29-afbe-ae15ef10d7cf",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 230.82,
+    "merchant": "Starbucks",
+    "country": "AU",
+    "timestamp": "2026-10-05T01:18:35.334629+00:00"
+  },
+  {
+    "id": "4a833196-0497-4731-8e33-2ee9cdd87cce",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 129.98,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-05T02:02:35.334629+00:00"
+  },
+  {
+    "id": "c3986559-52be-4c47-9092-be4cd760364a",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 20.59,
+    "merchant": "DoorDash",
+    "country": "SG",
+    "timestamp": "2026-10-05T02:17:35.334629+00:00"
+  },
+  {
+    "id": "35a83010-3e1e-4f6f-ba2b-2641f9368e64",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 1893.76,
+    "merchant": "CryptoSwap Exchange",
+    "country": "US",
+    "timestamp": "2026-10-05T02:54:35.334629+00:00"
+  },
+  {
+    "id": "26698ba5-8dba-4c64-981d-42869049e9e5",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 264.76,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-05T03:11:35.334629+00:00"
+  },
+  {
+    "id": "6d2967ed-3906-4627-80e7-d709f27372a3",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 250.2,
+    "merchant": "Steam",
+    "country": "IN",
+    "timestamp": "2026-10-05T03:52:35.334629+00:00"
+  },
+  {
+    "id": "99b6ca18-f04a-4a1c-9a7f-ee7de21733f9",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 88.3,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-05T04:13:35.334629+00:00"
+  },
+  {
+    "id": "86cac73e-b687-451d-88d8-337fff4f4fdb",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 158.76,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-05T04:26:35.334629+00:00"
+  },
+  {
+    "id": "31b25e32-59af-49c7-abef-b3db17e59f7c",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 219.03,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-05T05:31:35.334629+00:00"
+  },
+  {
+    "id": "8d63bed0-34e9-4da4-841d-f0f3471ee8d4",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 144.13,
+    "merchant": "Apple Store",
+    "country": "AU",
+    "timestamp": "2026-10-05T06:29:35.334629+00:00"
+  },
+  {
+    "id": "10416610-8317-4805-b531-7952fc327b01",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 118.5,
+    "merchant": "DoorDash",
+    "country": "DE",
+    "timestamp": "2026-10-05T06:38:35.334629+00:00"
+  },
+  {
+    "id": "be98c4b7-99ce-41da-afae-455eca33c80d",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 73.35,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-05T09:07:35.334629+00:00"
+  },
+  {
+    "id": "1d575799-b00d-4f01-8a1a-8c60934fbb89",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 207.86,
+    "merchant": "Costco",
+    "country": "AU",
+    "timestamp": "2026-10-05T09:41:35.334629+00:00"
+  },
+  {
+    "id": "2c572cbb-f26f-4db8-a0ea-11c57a1b3476",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 310.26,
+    "merchant": "DoorDash",
+    "country": "IN",
+    "timestamp": "2026-10-05T10:28:35.334629+00:00"
+  },
+  {
+    "id": "fe7b4c85-f19f-4457-b2bd-96aa40f06034",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 217.48,
+    "merchant": "Shell",
+    "country": "FR",
+    "timestamp": "2026-10-05T10:47:35.334629+00:00"
+  },
+  {
+    "id": "0ced3794-6661-48d8-85e7-d55a8fabf65d",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 242.02,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-05T10:50:35.334629+00:00"
+  },
+  {
+    "id": "26dd4221-a8c8-4332-9938-d5a0a16f5222",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 107.29,
+    "merchant": "Home Depot",
+    "country": "SG",
+    "timestamp": "2026-10-05T10:54:35.334629+00:00"
+  },
+  {
+    "id": "f9b6e4c9-a579-4f71-8398-db0b585d488a",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 102.84,
+    "merchant": "Shell",
+    "country": "AU",
+    "timestamp": "2026-10-05T12:29:35.334629+00:00"
+  },
+  {
+    "id": "dcf56e5b-5a2a-44ee-8581-995e23555401",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 106.16,
+    "merchant": "DoorDash",
+    "country": "SG",
+    "timestamp": "2026-10-05T12:59:35.334629+00:00"
+  },
+  {
+    "id": "2fce9641-b1b8-4709-b596-bf0838f53248",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 64.83,
+    "merchant": "Walmart",
+    "country": "CA",
+    "timestamp": "2026-10-05T13:04:35.334629+00:00"
+  },
+  {
+    "id": "6c140657-929d-4713-9f80-d94abd1c6f41",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 220.06,
+    "merchant": "Delta Airlines",
+    "country": "US",
+    "timestamp": "2026-10-05T14:39:35.334629+00:00"
+  },
+  {
+    "id": "70c3419b-0f9d-4e58-8aac-062bf5ffeba3",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 27.79,
+    "merchant": "Home Depot",
+    "country": "IN",
+    "timestamp": "2026-10-05T17:40:35.334629+00:00"
+  },
+  {
+    "id": "44d264f9-14fd-42ea-990b-f1705a1f0958",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 7873.89,
+    "merchant": "QuickCash Wire Transfer",
+    "country": "GB",
+    "timestamp": "2026-10-05T19:04:35.334629+00:00"
+  },
+  {
+    "id": "2dbeee0a-a7e2-4e1b-96c1-d0ad094afd8c",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 232.89,
+    "merchant": "Costco",
+    "country": "AU",
+    "timestamp": "2026-10-05T19:30:35.334629+00:00"
+  },
+  {
+    "id": "c87e6335-f587-4c9d-a272-984810753901",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 7532.61,
+    "merchant": "Target",
+    "country": "IR",
+    "timestamp": "2026-10-05T22:42:35.334629+00:00"
+  },
+  {
+    "id": "e61f5447-36b6-4331-b3f9-dd0e2b0c74f9",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 125.9,
+    "merchant": "Target",
+    "country": "US",
+    "timestamp": "2026-10-05T22:50:35.334629+00:00"
+  },
+  {
+    "id": "475d7567-798d-4051-b4fb-3ee7694f739d",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 146.75,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-05T23:15:35.334629+00:00"
+  },
+  {
+    "id": "97723589-d696-472c-a6c6-0e6eda283601",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 77.96,
+    "merchant": "DoorDash",
+    "country": "SG",
+    "timestamp": "2026-10-05T23:28:35.334629+00:00"
+  },
+  {
+    "id": "6d1454e6-017b-4767-b953-f06613469ff5",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 234.96,
+    "merchant": "Apple Store",
+    "country": "US",
+    "timestamp": "2026-10-06T00:13:35.334629+00:00"
+  },
+  {
+    "id": "e8f7f32c-88ec-4d1d-98bb-f67b8dd57190",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 125.91,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-06T00:31:35.334629+00:00"
+  },
+  {
+    "id": "8dc68416-1c5f-4e74-a677-53bf630b372a",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 106.74,
+    "merchant": "Walmart",
+    "country": "CA",
+    "timestamp": "2026-10-06T02:13:35.334629+00:00"
+  },
+  {
+    "id": "a3414536-5bdb-48b2-afaa-1aca49166a24",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 245.97,
+    "merchant": "Delta Airlines",
+    "country": "DE",
+    "timestamp": "2026-10-06T03:34:35.334629+00:00"
+  },
+  {
+    "id": "cc08565f-7246-4091-ab39-37f1f8f5abd3",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 231.94,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-06T04:18:35.334629+00:00"
+  },
+  {
+    "id": "a7a122aa-66a1-4d18-8b21-71c1f40d2f22",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 103.15,
+    "merchant": "Steam",
+    "country": "CA",
+    "timestamp": "2026-10-06T04:22:35.334629+00:00"
+  },
+  {
+    "id": "92a12922-0bbf-4a34-a9ee-0f61e6c16702",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 3300.9,
+    "merchant": "Rapid Remit International",
+    "country": "IN",
+    "timestamp": "2026-10-06T05:33:35.334629+00:00"
+  },
+  {
+    "id": "57562368-d223-46c0-a584-0efee187c838",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 27.78,
+    "merchant": "Amazon",
+    "country": "CA",
+    "timestamp": "2026-10-06T06:02:35.334629+00:00"
+  },
+  {
+    "id": "0f520028-fea4-437c-88c8-b93d06e08593",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 239.65,
+    "merchant": "Shell",
+    "country": "AU",
+    "timestamp": "2026-10-06T06:33:35.334629+00:00"
+  },
+  {
+    "id": "0274e3ea-7a3a-4369-82fb-710c884b7071",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 11.55,
+    "merchant": "Best Buy",
+    "country": "SG",
+    "timestamp": "2026-10-06T06:52:35.334629+00:00"
+  },
+  {
+    "id": "d1bba659-1b3d-4ea1-bd89-a0624acf478f",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 118.39,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-06T07:30:35.334629+00:00"
+  },
+  {
+    "id": "77a3a8a3-2a10-45fa-8c41-d6b45f8a3f6c",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 7969.78,
+    "merchant": "Walmart",
+    "country": "IR",
+    "timestamp": "2026-10-06T08:17:35.334629+00:00"
+  },
+  {
+    "id": "f724b76f-8b88-4c7e-88a9-cd79944868a6",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 228.4,
+    "merchant": "Uber",
+    "country": "CA",
+    "timestamp": "2026-10-06T08:29:35.334629+00:00"
+  },
+  {
+    "id": "907e1580-53b1-4df9-a756-ec3a3f3dcccc",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 242.85,
+    "merchant": "Home Depot",
+    "country": "DE",
+    "timestamp": "2026-10-06T08:47:35.334629+00:00"
+  },
+  {
+    "id": "fae15d45-51c5-4535-ac0f-6e09a87b09fc",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 100.11,
+    "merchant": "Walmart",
+    "country": "IN",
+    "timestamp": "2026-10-06T10:03:35.334629+00:00"
+  },
+  {
+    "id": "bcccbde5-4b88-4912-af51-64d9ab3d696d",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 120.04,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-06T11:18:35.334629+00:00"
+  },
+  {
+    "id": "a97d87ad-dd9a-4810-863a-f02d9d184930",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 90.37,
+    "merchant": "Starbucks",
+    "country": "DE",
+    "timestamp": "2026-10-06T11:26:35.334629+00:00"
+  },
+  {
+    "id": "45793b28-2536-407a-8bce-39ab6c0e40fa",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 76.6,
+    "merchant": "Apple Store",
+    "country": "AU",
+    "timestamp": "2026-10-06T11:53:35.334629+00:00"
+  },
+  {
+    "id": "ca0b4397-9fbb-4c29-bdfa-75e056218e89",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 58.35,
+    "merchant": "Delta Airlines",
+    "country": "SG",
+    "timestamp": "2026-10-06T12:02:35.334629+00:00"
+  },
+  {
+    "id": "17ba9bfb-5b66-4be1-b101-05965a58cc35",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 240.56,
+    "merchant": "Amazon",
+    "country": "CA",
+    "timestamp": "2026-10-06T13:39:35.334629+00:00"
+  },
+  {
+    "id": "c8064983-b664-49c0-8846-ddd60dc969c6",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 32.21,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-06T14:05:35.334629+00:00"
+  },
+  {
+    "id": "1955e1c5-4fca-4287-a110-3ef980a7d5d8",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 2258.89,
+    "merchant": "DoorDash",
+    "country": "SY",
+    "timestamp": "2026-10-06T15:12:35.334629+00:00"
+  },
+  {
+    "id": "3ffab279-52b2-4d14-bae0-777dea56eed7",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 184.93,
+    "merchant": "Marriott",
+    "country": "GB",
+    "timestamp": "2026-10-06T17:03:35.334629+00:00"
+  },
+  {
+    "id": "09bb4d7f-a1b0-4604-9618-089107981e77",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 32.09,
+    "merchant": "Best Buy",
+    "country": "IN",
+    "timestamp": "2026-10-06T17:18:35.334629+00:00"
+  },
+  {
+    "id": "68d5ed7d-85d0-4b49-b49f-28a8c044c69a",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 79.26,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-06T18:14:35.334629+00:00"
+  },
+  {
+    "id": "670ba5d4-f51a-4a9c-a48c-1e04236b3064",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 235.19,
+    "merchant": "Shell",
+    "country": "CA",
+    "timestamp": "2026-10-06T18:39:35.334629+00:00"
+  },
+  {
+    "id": "7dc4b76c-43f1-4266-a331-54c3865c2438",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 152.32,
+    "merchant": "Amazon",
+    "country": "US",
+    "timestamp": "2026-10-06T19:41:35.334629+00:00"
+  },
+  {
+    "id": "270be702-bae6-4d22-b582-ae4dba44eb78",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 252.98,
+    "merchant": "Uber",
+    "country": "FR",
+    "timestamp": "2026-10-06T19:54:35.334629+00:00"
+  },
+  {
+    "id": "503a4c2e-99a3-4b70-8b3e-cb7f56b85e6d",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 72.67,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-06T22:27:35.334629+00:00"
+  },
+  {
+    "id": "7b5df74b-3d75-47ca-bbe1-baed2d6cef2e",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 52.43,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-06T22:36:35.334629+00:00"
+  },
+  {
+    "id": "b217ec5b-e07c-400f-be14-b695f3cc2389",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 189.01,
+    "merchant": "Uber",
+    "country": "CA",
+    "timestamp": "2026-10-06T22:40:35.334629+00:00"
+  },
+  {
+    "id": "9ff80078-7470-444b-90d3-51e6ea2a632a",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 245.3,
+    "merchant": "Home Depot",
+    "country": "US",
+    "timestamp": "2026-10-06T22:59:35.334629+00:00"
+  },
+  {
+    "id": "4bcdff9c-22d1-4500-b6c1-2ea78f28df5a",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 235.11,
+    "merchant": "Best Buy",
+    "country": "CA",
+    "timestamp": "2026-10-06T23:10:35.334629+00:00"
+  },
+  {
+    "id": "2f406a97-7c31-4347-9493-d9aa85f5cff6",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 152.78,
+    "merchant": "Steam",
+    "country": "AU",
+    "timestamp": "2026-10-06T23:50:35.334629+00:00"
+  },
+  {
+    "id": "5b597fc8-a461-49c2-9fe3-6a483175153e",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 99.34,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-06T23:53:35.334629+00:00"
+  },
+  {
+    "id": "64b38f70-14d1-44ad-b38c-e8c744ea946c",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 246.17,
+    "merchant": "Walmart",
+    "country": "DE",
+    "timestamp": "2026-10-07T00:32:35.334629+00:00"
+  },
+  {
+    "id": "8e497909-3b9b-4de1-b286-55ae345dcc8c",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 179.26,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-07T00:42:35.334629+00:00"
+  },
+  {
+    "id": "e579515c-dcae-42f7-9567-36c9447bf314",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 29.76,
+    "merchant": "Netflix",
+    "country": "FR",
+    "timestamp": "2026-10-07T01:09:35.334629+00:00"
+  },
+  {
+    "id": "815f61ae-8798-4fd4-ab48-6877dfc7ae36",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 98.36,
+    "merchant": "Walmart",
+    "country": "IN",
+    "timestamp": "2026-10-07T01:16:35.334629+00:00"
+  },
+  {
+    "id": "e3818f24-511d-4c73-8239-f0ea5e88c40d",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 3995.38,
+    "merchant": "Global Gift Cards Ltd",
+    "country": "IN",
+    "timestamp": "2026-10-07T02:39:35.334629+00:00"
+  },
+  {
+    "id": "f111cf02-5daf-4977-b9b5-cc15684879c3",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 236.64,
+    "merchant": "Walmart",
+    "country": "FR",
+    "timestamp": "2026-10-07T02:54:35.334629+00:00"
+  },
+  {
+    "id": "5de17c88-5bc2-4a41-8097-24afce257431",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 258.91,
+    "merchant": "Target",
+    "country": "DE",
+    "timestamp": "2026-10-07T03:15:35.334629+00:00"
+  },
+  {
+    "id": "2f7bcc75-b80f-481d-96f5-244d06150622",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 172.64,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-07T03:49:35.334629+00:00"
+  },
+  {
+    "id": "cbe5bc68-baa1-4699-b805-db024cbd55ea",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 249.42,
+    "merchant": "Home Depot",
+    "country": "AU",
+    "timestamp": "2026-10-07T03:52:35.334629+00:00"
+  },
+  {
+    "id": "1aa71035-755b-4d7e-9e3c-fe464c8d1d01",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 267.82,
+    "merchant": "Apple Store",
+    "country": "DE",
+    "timestamp": "2026-10-07T04:12:35.334629+00:00"
+  },
+  {
+    "id": "3abc6ec9-3f5c-44d4-8be1-2e56c51f7073",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 121.18,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-07T04:52:35.334629+00:00"
+  },
+  {
+    "id": "ae455997-05d9-4e13-b97a-847a8138a827",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 252.67,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-07T06:10:35.334629+00:00"
+  },
+  {
+    "id": "b28455fe-f1b6-40cb-958b-7e907e1db5b6",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 78.45,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-07T06:30:35.334629+00:00"
+  },
+  {
+    "id": "8285eed1-8413-4272-9b57-5a791b936445",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 11.72,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-07T06:56:35.334629+00:00"
+  },
+  {
+    "id": "039db0bf-fe0a-47b4-9601-a53b58252adf",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 184.87,
+    "merchant": "Amazon",
+    "country": "CA",
+    "timestamp": "2026-10-07T07:33:35.334629+00:00"
+  },
+  {
+    "id": "8599a1b4-60e3-4378-8fbe-54794da3deaf",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 243.57,
+    "merchant": "Target",
+    "country": "DE",
+    "timestamp": "2026-10-07T10:14:35.334629+00:00"
+  },
+  {
+    "id": "1818693f-7c12-455d-8d13-9aede0229557",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 109.63,
+    "merchant": "Home Depot",
+    "country": "AU",
+    "timestamp": "2026-10-07T11:02:35.334629+00:00"
+  },
+  {
+    "id": "77713615-f946-42bd-80c2-f7fa4c7d4c00",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 115.52,
+    "merchant": "Shell",
+    "country": "AU",
+    "timestamp": "2026-10-07T11:55:35.334629+00:00"
+  },
+  {
+    "id": "46884f81-af0e-4f40-886b-2b0557b1035c",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 269.49,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-07T12:34:35.334629+00:00"
+  },
+  {
+    "id": "2c84ef99-a6a8-480a-83fc-2ceddd6cb4d4",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 80.82,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-07T12:42:35.334629+00:00"
+  },
+  {
+    "id": "6cc59908-0071-47f8-9736-39b955ec08bb",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 148.54,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-07T13:16:35.334629+00:00"
+  },
+  {
+    "id": "361c3051-92e2-436f-a38c-17fceac243aa",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 256.13,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-07T13:17:35.334629+00:00"
+  },
+  {
+    "id": "ec50e647-f177-4fd9-ae3d-0fd1fda1fe85",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 114.9,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-07T14:18:35.334629+00:00"
+  },
+  {
+    "id": "0d624336-8307-4346-88a6-bcc33d2bfc69",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 259.21,
+    "merchant": "Steam",
+    "country": "US",
+    "timestamp": "2026-10-07T15:32:35.334629+00:00"
+  },
+  {
+    "id": "770e5717-9b6a-424f-b7f7-f52b35d2cb20",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 5824.03,
+    "merchant": "CryptoSwap Exchange",
+    "country": "CA",
+    "timestamp": "2026-10-07T16:16:35.334629+00:00"
+  },
+  {
+    "id": "36830ae2-f4b2-4ab7-a201-108f88735e4d",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 115.35,
+    "merchant": "Home Depot",
+    "country": "AU",
+    "timestamp": "2026-10-07T19:29:35.334629+00:00"
+  },
+  {
+    "id": "ddd0a4b8-bf55-47b4-87bb-44906a02c99d",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 247.82,
+    "merchant": "Starbucks",
+    "country": "DE",
+    "timestamp": "2026-10-07T20:21:35.334629+00:00"
+  },
+  {
+    "id": "c94fe96f-827b-42c9-b203-6e7d747fd1b2",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 31.62,
+    "merchant": "Walmart",
+    "country": "FR",
+    "timestamp": "2026-10-07T20:22:35.334629+00:00"
+  },
+  {
+    "id": "a59feb30-f620-4167-9819-5a52b163d4c9",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 23936.98,
+    "merchant": "Global Gift Cards Ltd",
+    "country": "US",
+    "timestamp": "2026-10-07T20:42:35.334629+00:00"
+  },
+  {
+    "id": "9109f397-8cc3-458c-a8e6-9e85113922f1",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 242.18,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-07T21:13:35.334629+00:00"
+  },
+  {
+    "id": "dd7a9c45-e732-45a4-9dfb-e5037a5c3120",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 294.65,
+    "merchant": "DoorDash",
+    "country": "FR",
+    "timestamp": "2026-10-07T21:27:35.334629+00:00"
+  },
+  {
+    "id": "d486c114-c5ef-4db5-a2ab-5fcf357a6c31",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 261.97,
+    "merchant": "Uber",
+    "country": "GB",
+    "timestamp": "2026-10-07T21:34:35.334629+00:00"
+  },
+  {
+    "id": "0249daa1-abec-4661-b6aa-c6fa59673c5d",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 99.91,
+    "merchant": "Target",
+    "country": "CA",
+    "timestamp": "2026-10-07T22:08:35.334629+00:00"
+  },
+  {
+    "id": "4f6b3261-a547-424c-a58d-d7a82356c86b",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 101.81,
+    "merchant": "Shell",
+    "country": "FR",
+    "timestamp": "2026-10-07T23:05:35.334629+00:00"
+  },
+  {
+    "id": "dba1f5bf-1c01-4b5e-897f-f37e0467a193",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 201.18,
+    "merchant": "Uber",
+    "country": "AU",
+    "timestamp": "2026-10-07T23:15:35.334629+00:00"
+  },
+  {
+    "id": "a7ea5f7f-0b7d-4cd2-950a-29abe044f757",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 157.04,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-08T01:02:35.334629+00:00"
+  },
+  {
+    "id": "d2818671-1e5a-4266-8283-c3b3b23167f4",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 89.02,
+    "merchant": "Costco",
+    "country": "DE",
+    "timestamp": "2026-10-08T01:38:35.334629+00:00"
+  },
+  {
+    "id": "633fba79-8b16-4837-b702-92ae331f3793",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 55.23,
+    "merchant": "Amazon",
+    "country": "IN",
+    "timestamp": "2026-10-08T03:22:35.334629+00:00"
+  },
+  {
+    "id": "0946213d-e51a-4f2c-8d0c-4e8f10408814",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 198.14,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-08T04:12:35.334629+00:00"
+  },
+  {
+    "id": "08f1961a-bc4d-45b6-845a-090bdc238c75",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 242.34,
+    "merchant": "DoorDash",
+    "country": "AU",
+    "timestamp": "2026-10-08T05:18:35.334629+00:00"
+  },
+  {
+    "id": "a75306c4-37dd-42bd-89f5-735e01efeba3",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 207.24,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-08T05:32:35.334629+00:00"
+  },
+  {
+    "id": "25fe3e74-9a11-4715-a13c-70a3838eab03",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 119.06,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-08T05:33:35.334629+00:00"
+  },
+  {
+    "id": "898cca69-8e64-459a-9abe-aac7cac9e93d",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 204.84,
+    "merchant": "Uber",
+    "country": "CA",
+    "timestamp": "2026-10-08T05:39:35.334629+00:00"
+  },
+  {
+    "id": "96f49f32-7ce4-4419-8365-ff7efef3db89",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 127.95,
+    "merchant": "Amazon",
+    "country": "US",
+    "timestamp": "2026-10-08T05:56:35.334629+00:00"
+  },
+  {
+    "id": "cddc7e07-9779-475b-8568-61aea7f9af0f",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 238.65,
+    "merchant": "Shell",
+    "country": "CA",
+    "timestamp": "2026-10-08T06:14:35.334629+00:00"
+  },
+  {
+    "id": "839c2647-0543-4f20-a130-0ee08f40c4d2",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 131.37,
+    "merchant": "Walmart",
+    "country": "AU",
+    "timestamp": "2026-10-08T07:40:35.334629+00:00"
+  },
+  {
+    "id": "c9e1b316-3a8a-4f71-84b6-55e0d2fa9191",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 202.6,
+    "merchant": "Steam",
+    "country": "GB",
+    "timestamp": "2026-10-08T07:41:35.334629+00:00"
+  },
+  {
+    "id": "4e6e01ff-bdbf-4aff-a281-783cad777171",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 191.73,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-08T08:02:35.334629+00:00"
+  },
+  {
+    "id": "4939fd72-5bb1-4beb-9464-7745119d2550",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 5,
+    "merchant": "Steam",
+    "country": "GB",
+    "timestamp": "2026-10-08T08:39:35.334629+00:00"
+  },
+  {
+    "id": "1602dff6-5cd2-4e66-b59d-6b4ffe8edda6",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 253.86,
+    "merchant": "Shell",
+    "country": "CA",
+    "timestamp": "2026-10-08T09:12:35.334629+00:00"
+  },
+  {
+    "id": "028202fb-812c-434f-9894-e77b5ec6fc71",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 203.16,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-08T11:30:35.334629+00:00"
+  },
+  {
+    "id": "a725e2a0-9a29-4070-91f4-fe9a21bf38e2",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 5,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-08T12:01:35.334629+00:00"
+  },
+  {
+    "id": "333f9202-d83f-48c7-ad23-819ed7c2801a",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 210.84,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-08T12:41:35.334629+00:00"
+  },
+  {
+    "id": "9b12072f-17ea-4802-a2ec-308b10ae3217",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 157.24,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-08T15:33:35.334629+00:00"
+  },
+  {
+    "id": "504574d7-3337-4a0e-9814-b8fae99e308b",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 99.8,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-08T16:10:35.334629+00:00"
+  },
+  {
+    "id": "2b763ae9-a3f2-4a93-8c85-a8db989c3da6",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 7903.25,
+    "merchant": "Rapid Remit International",
+    "country": "AU",
+    "timestamp": "2026-10-08T17:12:35.334629+00:00"
+  },
+  {
+    "id": "a349445a-2893-4dba-b931-0842476602f6",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 69.49,
+    "merchant": "Apple Store",
+    "country": "SG",
+    "timestamp": "2026-10-08T17:26:35.334629+00:00"
+  },
+  {
+    "id": "6f97b5ff-d6c1-4adc-a879-84b78f45fb54",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 291.66,
+    "merchant": "Starbucks",
+    "country": "DE",
+    "timestamp": "2026-10-08T19:37:35.334629+00:00"
+  },
+  {
+    "id": "e5688fb4-de52-41c9-913e-a93c14606ec1",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 73.37,
+    "merchant": "Best Buy",
+    "country": "AU",
+    "timestamp": "2026-10-08T20:48:35.334629+00:00"
+  },
+  {
+    "id": "996e5c35-372a-43b3-9899-b9db565b63c1",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 94.74,
+    "merchant": "Amazon",
+    "country": "IN",
+    "timestamp": "2026-10-08T21:34:35.334629+00:00"
+  },
+  {
+    "id": "d375bb6a-4dfe-402e-8a63-87ed8d93fcf9",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 244.82,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-08T23:50:35.334629+00:00"
+  },
+  {
+    "id": "f717d2c6-6bad-456a-9ad9-53156c606c35",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 225.77,
+    "merchant": "Uber",
+    "country": "AU",
+    "timestamp": "2026-10-09T00:40:35.334629+00:00"
+  },
+  {
+    "id": "4559e3d8-96b1-43d1-a1f4-c092371ecd55",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 257.32,
+    "merchant": "DoorDash",
+    "country": "DE",
+    "timestamp": "2026-10-09T01:02:35.334629+00:00"
+  },
+  {
+    "id": "3828326c-68ce-48fa-87ea-15ebf78b0efd",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 12838.03,
+    "merchant": "Global Gift Cards Ltd",
+    "country": "GB",
+    "timestamp": "2026-10-09T01:22:35.334629+00:00"
+  },
+  {
+    "id": "005718c9-aecd-4721-99fd-d9e7faa62ab7",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 54.39,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-09T02:11:35.334629+00:00"
+  },
+  {
+    "id": "1a2aefde-3243-4830-8a49-de03b82426f5",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 13414.58,
+    "merchant": "Offshore Holdings LLC",
+    "country": "DE",
+    "timestamp": "2026-10-09T03:33:35.334629+00:00"
+  },
+  {
+    "id": "41930ed0-4111-4f7a-a8ed-8ee10e99d36b",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 97.94,
+    "merchant": "Starbucks",
+    "country": "SG",
+    "timestamp": "2026-10-09T03:48:35.334629+00:00"
+  },
+  {
+    "id": "cef4b58d-faf7-49f9-bfba-575d1bea21b0",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 3012.74,
+    "merchant": "Offshore Holdings LLC",
+    "country": "GB",
+    "timestamp": "2026-10-09T04:02:35.334629+00:00"
+  },
+  {
+    "id": "bf121419-3ecd-4c1c-a562-08169a3a9f46",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 3029.87,
+    "merchant": "QuickCash Wire Transfer",
+    "country": "GB",
+    "timestamp": "2026-10-09T04:08:35.334629+00:00"
+  },
+  {
+    "id": "bf44767b-4be9-43be-8b01-30feab434ace",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 61.1,
+    "merchant": "Delta Airlines",
+    "country": "SG",
+    "timestamp": "2026-10-09T04:44:35.334629+00:00"
+  },
+  {
+    "id": "8a289900-73d0-48ec-bed5-93354943912d",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 105.08,
+    "merchant": "Uber",
+    "country": "SG",
+    "timestamp": "2026-10-09T04:47:35.334629+00:00"
+  },
+  {
+    "id": "87d4f990-4dcc-4cde-9beb-3cadac2e9cce",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 101.97,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-09T05:24:35.334629+00:00"
+  },
+  {
+    "id": "06867279-c960-414b-ba79-a186c9d45035",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 6.01,
+    "merchant": "Home Depot",
+    "country": "FR",
+    "timestamp": "2026-10-09T05:38:35.334629+00:00"
+  },
+  {
+    "id": "31645b08-5352-4c11-8619-91850f685329",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 99.1,
+    "merchant": "Apple Store",
+    "country": "US",
+    "timestamp": "2026-10-09T06:44:35.334629+00:00"
+  },
+  {
+    "id": "bddfda63-5a17-45c7-bd1c-a1ae17710456",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 255.65,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-09T06:49:35.334629+00:00"
+  },
+  {
+    "id": "828631b1-5e1a-4531-85f5-b40280b62372",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 53.39,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-09T09:08:35.334629+00:00"
+  },
+  {
+    "id": "e822bf74-228f-4227-9dd6-120bf40e4216",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 6898.37,
+    "merchant": "Rapid Remit International",
+    "country": "GB",
+    "timestamp": "2026-10-09T09:31:35.334629+00:00"
+  },
+  {
+    "id": "7b27ba36-be5a-4ec3-9273-a59283dad255",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 21.91,
+    "merchant": "Best Buy",
+    "country": "GB",
+    "timestamp": "2026-10-09T12:20:35.334629+00:00"
+  },
+  {
+    "id": "e12af1fd-b091-441e-bfb8-d12a00680a01",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 221.72,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-09T12:48:35.334629+00:00"
+  },
+  {
+    "id": "b2f6dfd7-00f8-43c4-bc7f-e2ceb5fee970",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 140.8,
+    "merchant": "Marriott",
+    "country": "US",
+    "timestamp": "2026-10-09T15:45:35.334629+00:00"
+  },
+  {
+    "id": "acaa9fb6-40e4-4b5a-aa29-c90d20a73375",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 7374.47,
+    "merchant": "Apple Store",
+    "country": "IR",
+    "timestamp": "2026-10-09T16:23:35.334629+00:00"
+  },
+  {
+    "id": "01b0e62d-6452-4f8d-8f03-852e9a8f5adc",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 72.34,
+    "merchant": "Shell",
+    "country": "AU",
+    "timestamp": "2026-10-09T16:48:35.334629+00:00"
+  },
+  {
+    "id": "f9b3bb8e-9792-4d49-9405-dba4358fdf90",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 94.18,
+    "merchant": "DoorDash",
+    "country": "FR",
+    "timestamp": "2026-10-09T17:55:35.334629+00:00"
+  },
+  {
+    "id": "0f480e99-e36e-40dd-bc82-bc8f48a652af",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 91.77,
+    "merchant": "Home Depot",
+    "country": "DE",
+    "timestamp": "2026-10-09T18:40:35.334629+00:00"
+  },
+  {
+    "id": "0fa4344f-a323-4ac9-a4a7-e0ae2c200b28",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 119.38,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-09T19:07:35.334629+00:00"
+  },
+  {
+    "id": "9750a9f7-9c04-4e9a-a5e8-9bfe42b942ba",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 77.67,
+    "merchant": "Walmart",
+    "country": "DE",
+    "timestamp": "2026-10-09T19:39:35.334629+00:00"
+  },
+  {
+    "id": "0f03e9ee-af13-426e-8876-6c5ca9c1a153",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 275.58,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-09T20:49:35.334629+00:00"
+  },
+  {
+    "id": "51848d5a-3f3e-40ac-877a-69eb1441855a",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 116.75,
+    "merchant": "Netflix",
+    "country": "DE",
+    "timestamp": "2026-10-09T21:07:35.334629+00:00"
+  },
+  {
+    "id": "e2b372ee-82d7-4178-a0aa-d58b60709ab7",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 254.65,
+    "merchant": "Uber",
+    "country": "DE",
+    "timestamp": "2026-10-09T21:26:35.334629+00:00"
+  },
+  {
+    "id": "729490e5-f9a9-429a-ad1a-d46551b1b74b",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 71.39,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-09T23:07:35.334629+00:00"
+  },
+  {
+    "id": "edc60a72-8f9a-4717-85c0-8a895ce27a4c",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 108.55,
+    "merchant": "Amazon",
+    "country": "SG",
+    "timestamp": "2026-10-09T23:41:35.334629+00:00"
+  },
+  {
+    "id": "b9f5cf32-f15f-4371-a0aa-bfb2c5ea236e",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 60.04,
+    "merchant": "Uber",
+    "country": "SG",
+    "timestamp": "2026-10-09T23:53:35.334629+00:00"
+  },
+  {
+    "id": "3b9b6be2-7984-476a-b8f3-d97e618f114d",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 103.84,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-10T00:25:35.334629+00:00"
+  },
+  {
+    "id": "eca52064-a5da-477c-9574-0bc238a0e12b",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 222.66,
+    "merchant": "Walmart",
+    "country": "US",
+    "timestamp": "2026-10-10T00:29:35.334629+00:00"
+  },
+  {
+    "id": "4802d914-503a-4174-a955-50e844145775",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 279.12,
+    "merchant": "Netflix",
+    "country": "IN",
+    "timestamp": "2026-10-10T02:02:35.334629+00:00"
+  },
+  {
+    "id": "10ed330a-3388-489d-9fa6-598a7e1a3c87",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 111.98,
+    "merchant": "Target",
+    "country": "GB",
+    "timestamp": "2026-10-10T02:07:35.334629+00:00"
+  },
+  {
+    "id": "4037de95-7e12-4da1-8906-bc6cd3ff7711",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 108.78,
+    "merchant": "Marriott",
+    "country": "DE",
+    "timestamp": "2026-10-10T02:44:35.334629+00:00"
+  },
+  {
+    "id": "66b0dce0-929d-4059-a0a1-c7f9ec0b6dc5",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 137.17,
+    "merchant": "Apple Store",
+    "country": "DE",
+    "timestamp": "2026-10-10T02:46:35.334629+00:00"
+  },
+  {
+    "id": "56c09546-ae0e-49c2-8a3c-e5eb45515009",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 161.02,
+    "merchant": "Delta Airlines",
+    "country": "DE",
+    "timestamp": "2026-10-10T02:48:35.334629+00:00"
+  },
+  {
+    "id": "6aa52831-c247-46df-b814-9347ec52f712",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 111.15,
+    "merchant": "Uber",
+    "country": "DE",
+    "timestamp": "2026-10-10T02:50:35.334629+00:00"
+  },
+  {
+    "id": "fe5562cc-1ef0-497f-8ce3-a7822db168ef",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 83.27,
+    "merchant": "Starbucks",
+    "country": "DE",
+    "timestamp": "2026-10-10T02:52:35.334629+00:00"
+  },
+  {
+    "id": "c844dbeb-471e-4ba1-95a3-8d516c6ed55b",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 79.46,
+    "merchant": "DoorDash",
+    "country": "DE",
+    "timestamp": "2026-10-10T02:54:35.334629+00:00"
+  },
+  {
+    "id": "810a036e-61d9-48ce-b570-2b379e52e7e8",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 109.64,
+    "merchant": "Shell",
+    "country": "SG",
+    "timestamp": "2026-10-10T02:57:35.334629+00:00"
+  },
+  {
+    "id": "532b1588-dde4-469a-9f20-2558a97119b0",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 144.16,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-10T03:43:35.334629+00:00"
+  },
+  {
+    "id": "aadc0a33-2c78-4e9d-a96a-e8a1e12b44ee",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 88.57,
+    "merchant": "Costco",
+    "country": "AU",
+    "timestamp": "2026-10-10T04:02:35.334629+00:00"
+  },
+  {
+    "id": "fe3ddc75-daf0-4229-a99c-7a2f1d784bef",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 177.39,
+    "merchant": "Marriott",
+    "country": "US",
+    "timestamp": "2026-10-10T04:38:35.334629+00:00"
+  },
+  {
+    "id": "c5bfea58-5a45-4bad-985a-2d530c4b9ec7",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 106.15,
+    "merchant": "Home Depot",
+    "country": "GB",
+    "timestamp": "2026-10-10T06:30:35.334629+00:00"
+  },
+  {
+    "id": "4247013d-1d35-4095-bb11-f8bc6b78d8ab",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 115.62,
+    "merchant": "Steam",
+    "country": "AU",
+    "timestamp": "2026-10-10T07:46:35.334629+00:00"
+  },
+  {
+    "id": "29db856c-545a-443a-af44-c5a71abf34a8",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 99.62,
+    "merchant": "DoorDash",
+    "country": "FR",
+    "timestamp": "2026-10-10T08:13:35.334629+00:00"
+  },
+  {
+    "id": "50d2409b-e34b-4b2f-aa17-3b6202e350b0",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 208.75,
+    "merchant": "DoorDash",
+    "country": "US",
+    "timestamp": "2026-10-10T08:46:35.334629+00:00"
+  },
+  {
+    "id": "bb9eebde-e0b0-43f1-a493-69493cef5e69",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 125.08,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-10T09:06:35.334629+00:00"
+  },
+  {
+    "id": "2d50afbe-bea4-44ad-b872-d2368a3fba15",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 192.05,
+    "merchant": "Netflix",
+    "country": "FR",
+    "timestamp": "2026-10-10T09:54:35.334629+00:00"
+  },
+  {
+    "id": "2676a663-a28b-43db-aa93-c56e35990fd6",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 57.14,
+    "merchant": "Shell",
+    "country": "FR",
+    "timestamp": "2026-10-10T10:18:35.334629+00:00"
+  },
+  {
+    "id": "936d55db-5081-43d1-84e6-e5d3540ae184",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 168.8,
+    "merchant": "Netflix",
+    "country": "US",
+    "timestamp": "2026-10-10T11:28:35.334629+00:00"
+  },
+  {
+    "id": "c05c23dd-80db-4d84-ab29-20effdc5918f",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 14788.09,
+    "merchant": "Offshore Holdings LLC",
+    "country": "US",
+    "timestamp": "2026-10-10T11:38:35.334629+00:00"
+  },
+  {
+    "id": "9a21c0f2-67ec-4a04-9d32-772264e1a30f",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 123.83,
+    "merchant": "Target",
+    "country": "DE",
+    "timestamp": "2026-10-10T11:48:35.334629+00:00"
+  },
+  {
+    "id": "ede9731e-6ec8-493a-9af6-dcef402ec543",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 49.62,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-10T11:49:35.334629+00:00"
+  },
+  {
+    "id": "96b6e24f-c181-4831-88de-55fdb20aa37e",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 141.23,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-10T12:06:35.334629+00:00"
+  },
+  {
+    "id": "0c15c126-3e44-47a0-ac07-c7ad661bc844",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 18.89,
+    "merchant": "Home Depot",
+    "country": "IN",
+    "timestamp": "2026-10-10T12:33:35.334629+00:00"
+  },
+  {
+    "id": "ddd339f7-c5fe-4af8-99ab-f2e341979ee5",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 234.89,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-10T12:36:35.334629+00:00"
+  },
+  {
+    "id": "6fce0cfa-09fb-4833-99d0-c094fd6befa0",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 186.0,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-10T13:19:35.334629+00:00"
+  },
+  {
+    "id": "9bce7972-ddec-455a-bc0d-5d8f29c91a12",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 247.74,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-10T14:28:35.334629+00:00"
+  },
+  {
+    "id": "74d28e18-1d7f-4be7-a4c2-8a5438b53819",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 22.33,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-10T15:49:35.334629+00:00"
+  },
+  {
+    "id": "6941ea7c-9f68-41a2-a021-aac85234f929",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 206.01,
+    "merchant": "Netflix",
+    "country": "DE",
+    "timestamp": "2026-10-10T16:32:35.334629+00:00"
+  },
+  {
+    "id": "d2e0e3a4-a9e0-495c-97f3-6d69b101a5be",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 166.35,
+    "merchant": "Apple Store",
+    "country": "AU",
+    "timestamp": "2026-10-10T17:10:35.334629+00:00"
+  },
+  {
+    "id": "9a9e6198-1d97-44ba-b107-6b753544d7b2",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 241.52,
+    "merchant": "Costco",
+    "country": "DE",
+    "timestamp": "2026-10-10T17:33:35.334629+00:00"
+  },
+  {
+    "id": "9cc4eb3e-650d-4177-bb46-7439f9e446f4",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 328.15,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-10T18:09:35.334629+00:00"
+  },
+  {
+    "id": "769b147b-942c-4b40-88e6-595382ecd15d",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 75.12,
+    "merchant": "Amazon",
+    "country": "FR",
+    "timestamp": "2026-10-10T18:45:35.334629+00:00"
+  },
+  {
+    "id": "aa75d8cb-d05e-49eb-ba48-50f836cf6a77",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 216.01,
+    "merchant": "Delta Airlines",
+    "country": "AU",
+    "timestamp": "2026-10-10T19:04:35.334629+00:00"
+  },
+  {
+    "id": "e7b9bed3-1b80-4680-90b4-07a71a70c5fa",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 213.47,
+    "merchant": "Steam",
+    "country": "CA",
+    "timestamp": "2026-10-10T19:21:35.334629+00:00"
+  },
+  {
+    "id": "0bf2ea8b-32a9-4ba6-a472-ffec54961167",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 43.01,
+    "merchant": "Starbucks",
+    "country": "CA",
+    "timestamp": "2026-10-10T21:28:35.334629+00:00"
+  },
+  {
+    "id": "08027e73-b2f1-41b7-9872-21044cc72aab",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 217.86,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-10T23:08:35.334629+00:00"
+  },
+  {
+    "id": "99b11376-c73c-4109-9f05-6f007030f4f9",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 235.37,
+    "merchant": "Starbucks",
+    "country": "DE",
+    "timestamp": "2026-10-10T23:12:35.334629+00:00"
+  },
+  {
+    "id": "c1e35313-52a5-4667-83a2-2dd7f05ed863",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 194.99,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-10T23:36:35.334629+00:00"
+  },
+  {
+    "id": "88b3bc9a-7df5-4749-abc6-ded904921506",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 237.19,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-11T00:14:35.334629+00:00"
+  },
+  {
+    "id": "3491e1bb-fd5e-4093-bc8e-3cad4a940239",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 231.48,
+    "merchant": "Walmart",
+    "country": "DE",
+    "timestamp": "2026-10-11T00:52:35.334629+00:00"
+  },
+  {
+    "id": "f3d94275-eaac-4cad-aec0-a9ec18e96cfd",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 3139.33,
+    "merchant": "Global Gift Cards Ltd",
+    "country": "FR",
+    "timestamp": "2026-10-11T00:55:35.334629+00:00"
+  },
+  {
+    "id": "dc53d49d-d527-4792-a99c-9bc653afcf69",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 166.7,
+    "merchant": "Netflix",
+    "country": "US",
+    "timestamp": "2026-10-11T01:33:35.334629+00:00"
+  },
+  {
+    "id": "a9551358-7955-4916-9474-83fe8766ba57",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 146.22,
+    "merchant": "Walmart",
+    "country": "FR",
+    "timestamp": "2026-10-11T01:59:35.334629+00:00"
+  },
+  {
+    "id": "541483f7-7fdf-4033-91ed-10d20a097127",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 89.46,
+    "merchant": "Marriott",
+    "country": "GB",
+    "timestamp": "2026-10-11T02:04:35.334629+00:00"
+  },
+  {
+    "id": "a8d7901e-cb51-4ef4-b75e-b9d215ceebaa",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 187.72,
+    "merchant": "Apple Store",
+    "country": "US",
+    "timestamp": "2026-10-11T04:06:35.334629+00:00"
+  },
+  {
+    "id": "718e1ad8-1a1b-4e2e-96ac-8c72e64269ec",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 225.48,
+    "merchant": "Best Buy",
+    "country": "US",
+    "timestamp": "2026-10-11T04:13:35.334629+00:00"
+  },
+  {
+    "id": "583087cb-d698-4b13-b764-00bc71365ba8",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 137.9,
+    "merchant": "Costco",
+    "country": "IN",
+    "timestamp": "2026-10-11T04:23:35.334629+00:00"
+  },
+  {
+    "id": "ccd899ad-32ec-4629-8977-3a91b44ea8c2",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 218.71,
+    "merchant": "Uber",
+    "country": "AU",
+    "timestamp": "2026-10-11T04:35:35.334629+00:00"
+  },
+  {
+    "id": "343c61b3-e62e-428a-8f8a-0d5cfd5bb636",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 220.62,
+    "merchant": "Delta Airlines",
+    "country": "CA",
+    "timestamp": "2026-10-11T05:32:35.334629+00:00"
+  },
+  {
+    "id": "e7ad8b9a-4960-43e5-9e47-827a64dc43be",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 193.0,
+    "merchant": "Starbucks",
+    "country": "AU",
+    "timestamp": "2026-10-11T05:52:35.334629+00:00"
+  },
+  {
+    "id": "4b852d0e-c182-42cd-b2a5-c1855fa7e26c",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 124.74,
+    "merchant": "Marriott",
+    "country": "GB",
+    "timestamp": "2026-10-11T06:32:35.334629+00:00"
+  },
+  {
+    "id": "4e41bd29-b485-43f5-98d4-f7bee532424f",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 156.72,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-11T06:34:35.334629+00:00"
+  },
+  {
+    "id": "f02540a3-e75a-4c85-8854-9b5f191ba406",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 277.97,
+    "merchant": "DoorDash",
+    "country": "AU",
+    "timestamp": "2026-10-11T06:38:35.334629+00:00"
+  },
+  {
+    "id": "43575e4a-d8b0-48a0-87fd-04e732c07cef",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 30.95,
+    "merchant": "Costco",
+    "country": "IN",
+    "timestamp": "2026-10-11T07:34:35.334629+00:00"
+  },
+  {
+    "id": "af562b2c-63fc-439b-bc3b-1958e1413b94",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 108.22,
+    "merchant": "Costco",
+    "country": "AU",
+    "timestamp": "2026-10-11T07:42:35.334629+00:00"
+  },
+  {
+    "id": "56237e89-b121-4385-a82f-4a57b34e4597",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 250.65,
+    "merchant": "Best Buy",
+    "country": "US",
+    "timestamp": "2026-10-11T07:56:35.334629+00:00"
+  },
+  {
+    "id": "cb41e428-a7cd-452a-a850-8d353c51c0c6",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 82.93,
+    "merchant": "Uber",
+    "country": "SG",
+    "timestamp": "2026-10-11T10:49:35.334629+00:00"
+  },
+  {
+    "id": "67bdd4d4-cfbf-4534-ab50-9806137a0a32",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 170.55,
+    "merchant": "Target",
+    "country": "GB",
+    "timestamp": "2026-10-11T10:50:35.334629+00:00"
+  },
+  {
+    "id": "af2df5fe-5f21-4e2f-b034-9e4d25332ebe",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 111.86,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-11T11:37:35.334629+00:00"
+  },
+  {
+    "id": "0a9adc8b-2abb-4a4f-ac0d-afccdfd1bcf5",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 265.1,
+    "merchant": "Uber",
+    "country": "AU",
+    "timestamp": "2026-10-11T11:42:35.334629+00:00"
+  },
+  {
+    "id": "e829f14f-cf21-4f39-84ed-ef76af8df839",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 96.74,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-11T11:42:35.334629+00:00"
+  },
+  {
+    "id": "1e1e807a-d745-418c-9519-db717a943812",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 89.75,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-11T11:47:35.334629+00:00"
+  },
+  {
+    "id": "223f1110-601f-4f52-b76a-6296e3cb5220",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 210.71,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-11T12:04:35.334629+00:00"
+  },
+  {
+    "id": "ffdcd7ea-7cfa-42b5-b50e-4d0920cd9b1d",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 148.07,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-11T12:42:35.334629+00:00"
+  },
+  {
+    "id": "1cf387d3-8434-47c0-883c-41ce4144eff4",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 181.49,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-11T13:22:35.334629+00:00"
+  },
+  {
+    "id": "59fabe22-d541-42e1-ba15-a8227b13be66",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 97.51,
+    "merchant": "Steam",
+    "country": "CA",
+    "timestamp": "2026-10-11T13:29:35.334629+00:00"
+  },
+  {
+    "id": "4ea52ef6-9ec6-494a-8183-9fe432dc64c6",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 283.81,
+    "merchant": "Uber",
+    "country": "DE",
+    "timestamp": "2026-10-11T13:53:35.334629+00:00"
+  },
+  {
+    "id": "1c5008b6-ab39-4587-834b-f32ced052e92",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 93.68,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-11T16:45:35.334629+00:00"
+  },
+  {
+    "id": "25f5d7a1-6628-4034-8ad5-0b8c4717e61b",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 76.7,
+    "merchant": "Best Buy",
+    "country": "CA",
+    "timestamp": "2026-10-11T17:00:35.334629+00:00"
+  },
+  {
+    "id": "48eeec19-98a8-423e-a633-97266c5a62ba",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 51.44,
+    "merchant": "Apple Store",
+    "country": "FR",
+    "timestamp": "2026-10-11T19:40:35.334629+00:00"
+  },
+  {
+    "id": "c09b5184-0aec-4e21-9210-c426cff0fbf8",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 235.3,
+    "merchant": "Amazon",
+    "country": "FR",
+    "timestamp": "2026-10-11T19:48:35.334629+00:00"
+  },
+  {
+    "id": "d1240b92-a270-4f04-ab8e-5d3affd44b56",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 119.79,
+    "merchant": "Shell",
+    "country": "US",
+    "timestamp": "2026-10-11T19:57:35.334629+00:00"
+  },
+  {
+    "id": "1dd255af-a408-4274-aef3-e078051762fe",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 13257.04,
+    "merchant": "Offshore Holdings LLC",
+    "country": "DE",
+    "timestamp": "2026-10-11T20:13:35.334629+00:00"
+  },
+  {
+    "id": "bd0d1ddb-60a9-48f6-9337-4af1d38952e4",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 99.94,
+    "merchant": "Target",
+    "country": "GB",
+    "timestamp": "2026-10-11T21:30:35.334629+00:00"
+  },
+  {
+    "id": "0d6df869-95d4-4a43-8aa8-2eaae6dc49bb",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 112.19,
+    "merchant": "DoorDash",
+    "country": "DE",
+    "timestamp": "2026-10-11T21:31:35.334629+00:00"
+  },
+  {
+    "id": "3943db5f-0e1d-4a61-ae6d-618fd6a05b86",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 131.71,
+    "merchant": "Walmart",
+    "country": "AU",
+    "timestamp": "2026-10-11T22:05:35.334629+00:00"
+  },
+  {
+    "id": "412512c1-a006-4def-8163-6f62a2a099d8",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 113.62,
+    "merchant": "Costco",
+    "country": "IN",
+    "timestamp": "2026-10-11T22:28:35.334629+00:00"
+  },
+  {
+    "id": "4a341796-b55b-4b11-b962-82a7372a5e60",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 42.41,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-11T23:11:35.334629+00:00"
+  },
+  {
+    "id": "9ebd6571-e834-49dd-9984-04b4052d30cb",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 147.1,
+    "merchant": "Starbucks",
+    "country": "IN",
+    "timestamp": "2026-10-11T23:31:35.334629+00:00"
+  },
+  {
+    "id": "4bca00bc-f29c-4202-985c-971fca239215",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 172.5,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-11T23:50:35.334629+00:00"
+  },
+  {
+    "id": "ce1230f3-f494-46a8-97ba-0d0f2523b14b",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 136.1,
+    "merchant": "Steam",
+    "country": "AU",
+    "timestamp": "2026-10-12T00:25:35.334629+00:00"
+  },
+  {
+    "id": "d4d2f2c0-37af-41a9-83f1-c0395f344dc5",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 100.12,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-12T01:00:35.334629+00:00"
+  },
+  {
+    "id": "b74aa0ef-e16a-48e8-95a9-b28e07e1d36c",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 104.27,
+    "merchant": "Steam",
+    "country": "SG",
+    "timestamp": "2026-10-12T01:18:35.334629+00:00"
+  },
+  {
+    "id": "1057b299-6353-4c85-9b87-b2e05a4f3e39",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 48.46,
+    "merchant": "Target",
+    "country": "IN",
+    "timestamp": "2026-10-12T01:33:35.334629+00:00"
+  },
+  {
+    "id": "8b9e7b43-cc41-4a8b-8d55-1294833d5b7e",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 86.38,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-12T02:11:35.334629+00:00"
+  },
+  {
+    "id": "69a6c685-60f4-4079-a9fb-2586f6af7373",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 25.52,
+    "merchant": "Walmart",
+    "country": "CA",
+    "timestamp": "2026-10-12T03:30:35.334629+00:00"
+  },
+  {
+    "id": "74fd84f9-fabe-4a8a-93b6-5a74dc67572e",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 220.23,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-12T03:47:35.334629+00:00"
+  },
+  {
+    "id": "6dfd5c0e-bd58-48f7-b8b4-0245c8121168",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 204.85,
+    "merchant": "Apple Store",
+    "country": "US",
+    "timestamp": "2026-10-12T04:16:35.334629+00:00"
+  },
+  {
+    "id": "889bc04e-2474-4edf-a67a-da4e95ee8f49",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 262.75,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-12T04:19:35.334629+00:00"
+  },
+  {
+    "id": "d25b156a-2482-4182-bd2e-c06523655455",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 244.79,
+    "merchant": "DoorDash",
+    "country": "IN",
+    "timestamp": "2026-10-12T04:45:35.334629+00:00"
+  },
+  {
+    "id": "0b2285ac-c2c1-4c83-a563-44cf6c1e26cd",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 222.19,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-12T04:51:35.334629+00:00"
+  },
+  {
+    "id": "01afd2c4-9453-4230-80b2-522a553cf239",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 41.95,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-12T06:07:35.334629+00:00"
+  },
+  {
+    "id": "ef907b19-3a29-4a6b-9ca9-9d2b2ef4632e",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 125.72,
+    "merchant": "Walmart",
+    "country": "DE",
+    "timestamp": "2026-10-12T06:38:35.334629+00:00"
+  },
+  {
+    "id": "8c36c058-520d-41fa-8f07-d5684bfeca28",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 264.39,
+    "merchant": "Marriott",
+    "country": "US",
+    "timestamp": "2026-10-12T07:31:35.334629+00:00"
+  },
+  {
+    "id": "8ea809f5-e837-4b49-8454-c205e59247cf",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 119.73,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-12T08:15:35.334629+00:00"
+  },
+  {
+    "id": "0c9d7fee-95cb-4484-942d-b3758f142ecd",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 40.4,
+    "merchant": "Costco",
+    "country": "SG",
+    "timestamp": "2026-10-12T09:46:35.334629+00:00"
+  },
+  {
+    "id": "bd2e1a67-5423-4928-9006-d4d821367480",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 118.17,
+    "merchant": "Amazon",
+    "country": "GB",
+    "timestamp": "2026-10-12T09:51:35.334629+00:00"
+  },
+  {
+    "id": "ef3b85f0-4c07-4e91-9f5f-a3186af2a813",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 203.5,
+    "merchant": "Best Buy",
+    "country": "FR",
+    "timestamp": "2026-10-12T12:06:35.334629+00:00"
+  },
+  {
+    "id": "6c82083d-9c53-4f19-b166-7a26be020902",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 208.16,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-12T12:56:35.334629+00:00"
+  },
+  {
+    "id": "6185bd24-6559-46cf-afe0-c5fe835e1851",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 147.65,
+    "merchant": "DoorDash",
+    "country": "AU",
+    "timestamp": "2026-10-12T14:36:35.334629+00:00"
+  },
+  {
+    "id": "c3f30b9d-4737-41b8-96c5-9befbf18687e",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 56.02,
+    "merchant": "Costco",
+    "country": "DE",
+    "timestamp": "2026-10-12T14:46:35.334629+00:00"
+  },
+  {
+    "id": "70117ecf-8941-4966-82be-9027a160ee93",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 22.92,
+    "merchant": "Shell",
+    "country": "SG",
+    "timestamp": "2026-10-12T15:07:35.334629+00:00"
+  },
+  {
+    "id": "ca650744-23c2-4062-bb9c-49a9ff007b56",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 97.05,
+    "merchant": "Walmart",
+    "country": "CA",
+    "timestamp": "2026-10-12T15:42:35.334629+00:00"
+  },
+  {
+    "id": "16dd08a5-e3ec-45dc-97d6-24cc8509bde0",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 244.2,
+    "merchant": "Netflix",
+    "country": "CA",
+    "timestamp": "2026-10-12T16:42:35.334629+00:00"
+  },
+  {
+    "id": "63e42b92-6863-4e45-8f0b-31c449347b5a",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 111.29,
+    "merchant": "DoorDash",
+    "country": "GB",
+    "timestamp": "2026-10-12T17:11:35.334629+00:00"
+  },
+  {
+    "id": "00a2408a-9a3c-434e-a6c3-a1682a47f99c",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 233.87,
+    "merchant": "Walmart",
+    "country": "DE",
+    "timestamp": "2026-10-12T19:04:35.334629+00:00"
+  },
+  {
+    "id": "09bc1fa7-4944-4565-a202-3c432abe73b3",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 70.33,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-12T23:29:35.334629+00:00"
+  },
+  {
+    "id": "c387b1b0-d12b-4a9e-ab5f-a4b2cbdf6e05",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 228.22,
+    "merchant": "Netflix",
+    "country": "CA",
+    "timestamp": "2026-10-13T02:35:35.334629+00:00"
+  },
+  {
+    "id": "f11376f6-0ecf-4ce5-975b-18935f151e22",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 116.64,
+    "merchant": "Home Depot",
+    "country": "AU",
+    "timestamp": "2026-10-13T02:39:35.334629+00:00"
+  },
+  {
+    "id": "1fc243c1-1443-4d52-a695-c0f29abd60e6",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 2833.7,
+    "merchant": "Rapid Remit International",
+    "country": "DE",
+    "timestamp": "2026-10-13T02:39:35.334629+00:00"
+  },
+  {
+    "id": "4f641ce3-013c-4f7d-bb35-7378b188b243",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 236.09,
+    "merchant": "Walmart",
+    "country": "CA",
+    "timestamp": "2026-10-13T03:41:35.334629+00:00"
+  },
+  {
+    "id": "b5b1dee8-1b8c-42c6-b2ac-fc8dd38406ad",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 17.9,
+    "merchant": "Apple Store",
+    "country": "CA",
+    "timestamp": "2026-10-13T03:46:35.334629+00:00"
+  },
+  {
+    "id": "cff3b55c-a102-4e26-bc89-9dac10d3684d",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 90.52,
+    "merchant": "Starbucks",
+    "country": "IN",
+    "timestamp": "2026-10-13T03:56:35.334629+00:00"
+  },
+  {
+    "id": "15a6ac8b-c5b8-47a7-ba8a-8c2344259481",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 138.14,
+    "merchant": "Best Buy",
+    "country": "AU",
+    "timestamp": "2026-10-13T04:12:35.334629+00:00"
+  },
+  {
+    "id": "057f3c9e-c03f-4eff-9a79-c1219955690b",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 137.82,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-13T04:44:35.334629+00:00"
+  },
+  {
+    "id": "6eba5996-f1d6-4a41-af10-9cc30656f05d",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 116.47,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-13T05:31:35.334629+00:00"
+  },
+  {
+    "id": "894f6f04-c94e-4843-a948-23e3374a5436",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 124.41,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-13T05:44:35.334629+00:00"
+  },
+  {
+    "id": "0085d0ca-8922-4e9b-a968-2f94cd6bb441",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 297.86,
+    "merchant": "Starbucks",
+    "country": "IN",
+    "timestamp": "2026-10-13T09:18:35.334629+00:00"
+  },
+  {
+    "id": "0859341c-6986-4be5-8deb-0c3fd7907fad",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 131.35,
+    "merchant": "Costco",
+    "country": "DE",
+    "timestamp": "2026-10-13T09:25:35.334629+00:00"
+  },
+  {
+    "id": "d2546506-1085-45b0-b7b2-6436560e8f55",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 247.5,
+    "merchant": "DoorDash",
+    "country": "US",
+    "timestamp": "2026-10-13T11:48:35.334629+00:00"
+  },
+  {
+    "id": "94c2b2eb-ba05-479a-85b8-e9834adfe599",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 159.01,
+    "merchant": "Target",
+    "country": "US",
+    "timestamp": "2026-10-13T12:35:35.334629+00:00"
+  },
+  {
+    "id": "2078a1c7-13d2-4e17-8a4b-b0316e6ae5f6",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 18013.84,
+    "merchant": "Global Gift Cards Ltd",
+    "country": "IN",
+    "timestamp": "2026-10-13T14:15:35.334629+00:00"
+  },
+  {
+    "id": "0d510bc2-9f7c-4654-9d46-ebff794565b4",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 57.61,
+    "merchant": "Target",
+    "country": "IN",
+    "timestamp": "2026-10-13T15:42:35.334629+00:00"
+  },
+  {
+    "id": "0e29ed5f-9df5-4e37-869c-fa402ade3afe",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 249.8,
+    "merchant": "Apple Store",
+    "country": "CA",
+    "timestamp": "2026-10-13T15:52:35.334629+00:00"
+  },
+  {
+    "id": "8e8b8140-50d4-4e9d-bf2a-8fa180c5d120",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 132.16,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-13T16:43:35.334629+00:00"
+  },
+  {
+    "id": "b88e5537-acf4-4f61-9465-77121eb987fe",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 218.75,
+    "merchant": "Marriott",
+    "country": "GB",
+    "timestamp": "2026-10-13T16:54:35.334629+00:00"
+  },
+  {
+    "id": "b0c09cbe-c207-4952-a266-91f1c0b33565",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 187.55,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-13T17:43:35.334629+00:00"
+  },
+  {
+    "id": "8244ab69-3bb1-4647-b0c1-e930b613c670",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 275.6,
+    "merchant": "Steam",
+    "country": "FR",
+    "timestamp": "2026-10-13T18:08:35.334629+00:00"
+  },
+  {
+    "id": "32e97237-7b7d-4b16-a988-a1f2e8e0a952",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 254.27,
+    "merchant": "Marriott",
+    "country": "AU",
+    "timestamp": "2026-10-13T18:24:35.334629+00:00"
+  },
+  {
+    "id": "feba2ef5-c37e-4c98-8605-1a5fd3e72d41",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 7921.54,
+    "merchant": "Netflix",
+    "country": "RU",
+    "timestamp": "2026-10-13T18:37:35.334629+00:00"
+  },
+  {
+    "id": "bfb3dee4-fbbb-46d3-8d23-4fdd92cd71a4",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 208.45,
+    "merchant": "Uber",
+    "country": "GB",
+    "timestamp": "2026-10-13T22:03:35.334629+00:00"
+  },
+  {
+    "id": "fe2e99bc-3944-4fad-8701-e4473a185f17",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 117.13,
+    "merchant": "Best Buy",
+    "country": "US",
+    "timestamp": "2026-10-13T22:10:35.334629+00:00"
+  },
+  {
+    "id": "84b1c194-2755-4ecd-ae68-8b4554db0370",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 107.6,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-13T22:34:35.334629+00:00"
+  },
+  {
+    "id": "1fefad4f-6dcb-433d-a9d2-e81575b77458",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 142.47,
+    "merchant": "Uber",
+    "country": "SG",
+    "timestamp": "2026-10-13T23:39:35.334629+00:00"
+  },
+  {
+    "id": "e55202b1-d5fd-47fc-a091-37881ff076ca",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 241.45,
+    "merchant": "Amazon",
+    "country": "CA",
+    "timestamp": "2026-10-14T00:00:35.334629+00:00"
+  },
+  {
+    "id": "d6b7df4f-f328-4b86-a5bf-58bc915bb427",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 164.0,
+    "merchant": "Target",
+    "country": "US",
+    "timestamp": "2026-10-14T00:08:35.334629+00:00"
+  },
+  {
+    "id": "62e1202b-1e7e-4511-a42b-35d487542f62",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 172.12,
+    "merchant": "Costco",
+    "country": "AU",
+    "timestamp": "2026-10-14T00:09:35.334629+00:00"
+  },
+  {
+    "id": "1befcc23-6c19-4bcc-b5de-d2216f534d1e",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 247.65,
+    "merchant": "DoorDash",
+    "country": "AU",
+    "timestamp": "2026-10-14T00:18:35.334629+00:00"
+  },
+  {
+    "id": "02271420-ed92-4743-86cc-a747f1490272",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 225.16,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-14T00:59:35.334629+00:00"
+  },
+  {
+    "id": "40b6a1d1-905f-44ba-84aa-6852d4d66f11",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 253.56,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-14T01:11:35.334629+00:00"
+  },
+  {
+    "id": "b5d3916a-d7bd-45d3-b5f2-a81abffaaea8",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 63.11,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-14T02:06:35.334629+00:00"
+  },
+  {
+    "id": "bc543bdc-e303-4b34-b321-dca9eafc1065",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 274.4,
+    "merchant": "Netflix",
+    "country": "FR",
+    "timestamp": "2026-10-14T02:25:35.334629+00:00"
+  },
+  {
+    "id": "4c5ced1e-feec-49c6-9ff7-583ada52e3a5",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 174.11,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-14T03:19:35.334629+00:00"
+  },
+  {
+    "id": "1180dac0-f0f6-4a40-b45c-b49264396772",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 231.19,
+    "merchant": "Best Buy",
+    "country": "AU",
+    "timestamp": "2026-10-14T03:21:35.334629+00:00"
+  },
+  {
+    "id": "804dba7a-5f13-42eb-9529-b5092bef4234",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 177.16,
+    "merchant": "Best Buy",
+    "country": "CA",
+    "timestamp": "2026-10-14T03:23:35.334629+00:00"
+  },
+  {
+    "id": "b6bfbe58-667b-4756-b17d-b94427e58d59",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 189.08,
+    "merchant": "Netflix",
+    "country": "AU",
+    "timestamp": "2026-10-14T03:23:35.334629+00:00"
+  },
+  {
+    "id": "92cd47c7-c2d0-4f52-b262-e60be27805d9",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 234.95,
+    "merchant": "Marriott",
+    "country": "AU",
+    "timestamp": "2026-10-14T03:25:35.334629+00:00"
+  },
+  {
+    "id": "41e68691-ce75-44a8-85a8-565f90f36ece",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 254.95,
+    "merchant": "Netflix",
+    "country": "AU",
+    "timestamp": "2026-10-14T03:27:35.334629+00:00"
+  },
+  {
+    "id": "e8a1c153-6f4d-473f-9920-f64f7eca1cac",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 264.83,
+    "merchant": "Steam",
+    "country": "AU",
+    "timestamp": "2026-10-14T03:29:35.334629+00:00"
+  },
+  {
+    "id": "f14a7c6d-5828-44eb-8a24-3a762c1dfcd5",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 199.05,
+    "merchant": "DoorDash",
+    "country": "GB",
+    "timestamp": "2026-10-14T03:57:35.334629+00:00"
+  },
+  {
+    "id": "d649672a-6e92-462f-82d3-ce85c48d4470",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 136.54,
+    "merchant": "DoorDash",
+    "country": "DE",
+    "timestamp": "2026-10-14T05:31:35.334629+00:00"
+  },
+  {
+    "id": "3fce170a-3759-452e-9ec3-aa94fe0bd6ea",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 217.92,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-14T08:45:35.334629+00:00"
+  },
+  {
+    "id": "cd97da65-c9b4-4d53-bf3b-8b67d3f071f6",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 141.53,
+    "merchant": "Costco",
+    "country": "US",
+    "timestamp": "2026-10-14T10:26:35.334629+00:00"
+  },
+  {
+    "id": "00715fd0-7659-4d07-81cd-d85bca3acc64",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 244.73,
+    "merchant": "Steam",
+    "country": "DE",
+    "timestamp": "2026-10-14T11:12:35.334629+00:00"
+  },
+  {
+    "id": "bc4b767f-4831-4ecd-8083-910e231897a8",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 10826.62,
+    "merchant": "CryptoSwap Exchange",
+    "country": "IN",
+    "timestamp": "2026-10-14T11:41:35.334629+00:00"
+  },
+  {
+    "id": "06b1ff01-f283-4c71-9771-21a0f55bf169",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 69.39,
+    "merchant": "Marriott",
+    "country": "SG",
+    "timestamp": "2026-10-14T12:17:35.334629+00:00"
+  },
+  {
+    "id": "cf7f629d-6850-4efb-8ce2-21dd5f4fafca",
+    "customer_id": "1a3f6251-dd0f-414d-88ca-dddf7d1ed8f3",
+    "amount": 150.8,
+    "merchant": "Starbucks",
+    "country": "GB",
+    "timestamp": "2026-10-14T12:34:35.334629+00:00"
+  },
+  {
+    "id": "66981cc0-b92f-4ae7-8d77-d10feb76b29d",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 233.78,
+    "merchant": "Marriott",
+    "country": "FR",
+    "timestamp": "2026-10-14T12:58:35.334629+00:00"
+  },
+  {
+    "id": "758a885a-44e0-4aec-ac83-36cad24be261",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 206.03,
+    "merchant": "Netflix",
+    "country": "AU",
+    "timestamp": "2026-10-14T13:04:35.334629+00:00"
+  },
+  {
+    "id": "74a5e791-3910-4236-be37-93b7cf1ddebf",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 160.72,
+    "merchant": "Marriott",
+    "country": "AU",
+    "timestamp": "2026-10-14T14:07:35.334629+00:00"
+  },
+  {
+    "id": "0136bd26-550f-40a7-a7cc-a922c30ec4d1",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 98.42,
+    "merchant": "Uber",
+    "country": "SG",
+    "timestamp": "2026-10-14T15:25:35.334629+00:00"
+  },
+  {
+    "id": "0dad73f8-b43e-4434-9547-2548b6de8998",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 206.6,
+    "merchant": "Best Buy",
+    "country": "GB",
+    "timestamp": "2026-10-14T15:36:35.334629+00:00"
+  },
+  {
+    "id": "195e4f9e-a283-4cd1-a06b-fecc02893547",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 103.31,
+    "merchant": "Delta Airlines",
+    "country": "SG",
+    "timestamp": "2026-10-14T15:52:35.334629+00:00"
+  },
+  {
+    "id": "b67046ce-b901-4fdb-845e-02bd8e642d22",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 95.89,
+    "merchant": "Best Buy",
+    "country": "SG",
+    "timestamp": "2026-10-14T17:03:35.334629+00:00"
+  },
+  {
+    "id": "2817aa70-6087-415d-945c-198399c13777",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 122.13,
+    "merchant": "Shell",
+    "country": "IN",
+    "timestamp": "2026-10-14T17:47:35.334629+00:00"
+  },
+  {
+    "id": "8ece4ef9-7fa3-4dbf-9438-0329b040518e",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 142.18,
+    "merchant": "DoorDash",
+    "country": "GB",
+    "timestamp": "2026-10-14T18:00:35.334629+00:00"
+  },
+  {
+    "id": "8587af8f-796e-4def-af33-84a3e8aeb63e",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 275.31,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-14T18:14:35.334629+00:00"
+  },
+  {
+    "id": "89966e61-73f1-473c-9d0f-3333027ff8bc",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 203.36,
+    "merchant": "DoorDash",
+    "country": "FR",
+    "timestamp": "2026-10-14T18:26:35.334629+00:00"
+  },
+  {
+    "id": "e1027392-11fb-4efc-8ae8-db6fea4e5285",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 71.23,
+    "merchant": "Shell",
+    "country": "AU",
+    "timestamp": "2026-10-14T21:23:35.334629+00:00"
+  },
+  {
+    "id": "d9b31800-b565-4a22-8d5f-fcf9cc1e9f7f",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 82.84,
+    "merchant": "DoorDash",
+    "country": "IN",
+    "timestamp": "2026-10-14T21:39:35.334629+00:00"
+  },
+  {
+    "id": "0c516f70-23eb-4103-bb4a-cf5a0aee39ee",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 230.5,
+    "merchant": "Uber",
+    "country": "FR",
+    "timestamp": "2026-10-14T21:59:35.334629+00:00"
+  },
+  {
+    "id": "d581ec8c-187e-4382-899b-e989201ae3d8",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 284.65,
+    "merchant": "Costco",
+    "country": "DE",
+    "timestamp": "2026-10-14T22:03:35.334629+00:00"
+  },
+  {
+    "id": "b8306a49-26f5-41ef-ac04-3a0757a710be",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 246.99,
+    "merchant": "Walmart",
+    "country": "CA",
+    "timestamp": "2026-10-14T22:14:35.334629+00:00"
+  },
+  {
+    "id": "5907e8f7-3e72-4253-a228-ab0585a92685",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 77.69,
+    "merchant": "Netflix",
+    "country": "AU",
+    "timestamp": "2026-10-14T22:23:35.334629+00:00"
+  },
+  {
+    "id": "94082c22-efee-4df2-9bdf-2f0ef0288bff",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 134.93,
+    "merchant": "Best Buy",
+    "country": "US",
+    "timestamp": "2026-10-14T23:59:35.334629+00:00"
+  },
+  {
+    "id": "52b97d40-e44e-43f6-ba43-c7c42834eff0",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 62.22,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-15T00:30:35.334629+00:00"
+  },
+  {
+    "id": "56ad77a0-4bcc-4db6-abdd-88eec231d93e",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 94.64,
+    "merchant": "Best Buy",
+    "country": "IN",
+    "timestamp": "2026-10-15T00:52:35.334629+00:00"
+  },
+  {
+    "id": "ab862e4e-f4cb-4015-971b-0959f7caf8ee",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 117.02,
+    "merchant": "Marriott",
+    "country": "GB",
+    "timestamp": "2026-10-15T01:20:35.334629+00:00"
+  },
+  {
+    "id": "64ec78dd-40f2-4cdb-b14f-d2513611236e",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 200.01,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-15T01:26:35.334629+00:00"
+  },
+  {
+    "id": "b2bba40e-1b5d-4b22-88eb-9a529e27458a",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 240.51,
+    "merchant": "Starbucks",
+    "country": "CA",
+    "timestamp": "2026-10-15T02:18:35.334629+00:00"
+  },
+  {
+    "id": "48e9d06b-260f-49f8-8dec-b3de02def0ad",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 2614.79,
+    "merchant": "Offshore Holdings LLC",
+    "country": "DE",
+    "timestamp": "2026-10-15T02:19:35.334629+00:00"
+  },
+  {
+    "id": "d08c3d24-1c80-49ee-b3d7-95d7697f61c0",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 85.67,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-15T02:44:35.334629+00:00"
+  },
+  {
+    "id": "7518c711-0b36-47b5-831f-4f03a55edd44",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 218.43,
+    "merchant": "Costco",
+    "country": "CA",
+    "timestamp": "2026-10-15T04:31:35.334629+00:00"
+  },
+  {
+    "id": "58d259bc-2230-47ac-b68f-03203e891197",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 192.54,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-15T04:53:35.334629+00:00"
+  },
+  {
+    "id": "7e193745-415a-4170-a3dc-bb099e51d2a3",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 128.42,
+    "merchant": "Delta Airlines",
+    "country": "GB",
+    "timestamp": "2026-10-15T05:18:35.334629+00:00"
+  },
+  {
+    "id": "d0c29895-e3f7-4c96-9a5c-f334cec344b2",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 264.2,
+    "merchant": "Delta Airlines",
+    "country": "IN",
+    "timestamp": "2026-10-15T06:05:35.334629+00:00"
+  },
+  {
+    "id": "5db65b05-797c-4525-a018-9bed0d40c2ee",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 261.43,
+    "merchant": "Apple Store",
+    "country": "GB",
+    "timestamp": "2026-10-15T06:17:35.334629+00:00"
+  },
+  {
+    "id": "c0caeb1b-94fb-4ac3-abe3-a972dfd84010",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 147.72,
+    "merchant": "Amazon",
+    "country": "SG",
+    "timestamp": "2026-10-15T07:04:35.334629+00:00"
+  },
+  {
+    "id": "9bf7852f-e9c2-47e1-bb19-3891c33d618f",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 37.35,
+    "merchant": "Home Depot",
+    "country": "CA",
+    "timestamp": "2026-10-15T07:29:35.334629+00:00"
+  },
+  {
+    "id": "f9fb5eb8-113f-4dcd-b177-adad0dd0ac91",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 134.36,
+    "merchant": "Uber",
+    "country": "US",
+    "timestamp": "2026-10-15T08:37:35.334629+00:00"
+  },
+  {
+    "id": "904dd39f-431d-4d0f-a367-53154551e78d",
+    "customer_id": "9cdd1283-f9aa-4b2a-bf02-8f616bdab88f",
+    "amount": 155.58,
+    "merchant": "Home Depot",
+    "country": "US",
+    "timestamp": "2026-10-15T10:27:35.334629+00:00"
+  },
+  {
+    "id": "f4becd2c-7480-44de-8b62-62d56b92816f",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 233.08,
+    "merchant": "Best Buy",
+    "country": "CA",
+    "timestamp": "2026-10-15T10:43:35.334629+00:00"
+  },
+  {
+    "id": "822807b7-4abb-4b12-b169-2de03b7ddb76",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 72.84,
+    "merchant": "Home Depot",
+    "country": "CA",
+    "timestamp": "2026-10-15T11:19:35.334629+00:00"
+  },
+  {
+    "id": "9d9fcb18-a5fc-4f20-8171-807bc6a94b83",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 76.01,
+    "merchant": "Starbucks",
+    "country": "IN",
+    "timestamp": "2026-10-15T14:29:35.334629+00:00"
+  },
+  {
+    "id": "bef4149d-7638-492a-a4aa-28d2d4e80e5e",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 93.78,
+    "merchant": "Steam",
+    "country": "SG",
+    "timestamp": "2026-10-15T16:32:35.334629+00:00"
+  },
+  {
+    "id": "e03efe83-ac5f-44eb-88e9-df745f0df8b6",
+    "customer_id": "8043949d-9cc7-46ac-be36-c15c65142d45",
+    "amount": 103.74,
+    "merchant": "Walmart",
+    "country": "AU",
+    "timestamp": "2026-10-15T16:47:35.334629+00:00"
+  },
+  {
+    "id": "529cfcfe-c1e2-48c7-8549-59399397f17d",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 61.52,
+    "merchant": "Walmart",
+    "country": "GB",
+    "timestamp": "2026-10-15T18:38:35.334629+00:00"
+  },
+  {
+    "id": "74fde671-bec0-497f-b36e-d2ea1c26344f",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 5,
+    "merchant": "Marriott",
+    "country": "FR",
+    "timestamp": "2026-10-15T19:02:35.334629+00:00"
+  },
+  {
+    "id": "01e81500-d4fd-4da8-a335-b2350efb1954",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 293.72,
+    "merchant": "Target",
+    "country": "DE",
+    "timestamp": "2026-10-15T19:27:35.334629+00:00"
+  },
+  {
+    "id": "0e4c4709-bb68-49ff-956a-83ff103706ae",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 96.77,
+    "merchant": "Steam",
+    "country": "SG",
+    "timestamp": "2026-10-15T19:33:35.334629+00:00"
+  },
+  {
+    "id": "1bcbab61-7734-47c7-9fd3-a52d3a31eb04",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 3439.91,
+    "merchant": "Rapid Remit International",
+    "country": "GB",
+    "timestamp": "2026-10-15T19:34:35.334629+00:00"
+  },
+  {
+    "id": "cb7f4125-1868-4a55-a188-92270cccbc7b",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 50.07,
+    "merchant": "Best Buy",
+    "country": "CA",
+    "timestamp": "2026-10-15T19:41:35.334629+00:00"
+  },
+  {
+    "id": "34a002bb-c04b-456a-ad87-fdf9f6b15dee",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 5149.82,
+    "merchant": "Netflix",
+    "country": "KP",
+    "timestamp": "2026-10-15T20:16:35.334629+00:00"
+  },
+  {
+    "id": "ff941af5-cb67-40bc-9456-2d348e97d53f",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 195.72,
+    "merchant": "Shell",
+    "country": "GB",
+    "timestamp": "2026-10-15T21:11:35.334629+00:00"
+  },
+  {
+    "id": "65719503-f0e0-440f-95fa-100574658f20",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 27.94,
+    "merchant": "Amazon",
+    "country": "CA",
+    "timestamp": "2026-10-15T21:33:35.334629+00:00"
+  },
+  {
+    "id": "c082996f-42a5-423b-a169-ada2af65ce61",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 293.78,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-15T21:40:35.334629+00:00"
+  },
+  {
+    "id": "473d9acd-5c6f-45b5-b830-0c211682fffa",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 71.72,
+    "merchant": "Shell",
+    "country": "CA",
+    "timestamp": "2026-10-15T22:25:35.334629+00:00"
+  },
+  {
+    "id": "000ac899-5fb1-4092-9e7d-d25f87b91a5d",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 244.69,
+    "merchant": "Amazon",
+    "country": "AU",
+    "timestamp": "2026-10-15T22:32:35.334629+00:00"
+  },
+  {
+    "id": "656395cd-7662-4706-995d-334f92863210",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 183.27,
+    "merchant": "DoorDash",
+    "country": "CA",
+    "timestamp": "2026-10-15T22:45:35.334629+00:00"
+  },
+  {
+    "id": "3e826401-9516-4d53-b29e-ad128b941f71",
+    "customer_id": "2a6f6c9f-1696-43f5-978e-002f8ac3ac21",
+    "amount": 250.49,
+    "merchant": "Target",
+    "country": "GB",
+    "timestamp": "2026-10-15T22:58:35.334629+00:00"
+  },
+  {
+    "id": "cc6a0a32-8aa1-43a4-b3a3-b6a42a914316",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 244.34,
+    "merchant": "Shell",
+    "country": "CA",
+    "timestamp": "2026-10-15T23:53:35.334629+00:00"
+  },
+  {
+    "id": "ba9b23ae-51e6-4efd-bf58-9803510bf197",
+    "customer_id": "15ad8fdf-b4e0-46db-84f0-9c796c0b42a1",
+    "amount": 109.88,
+    "merchant": "Marriott",
+    "country": "CA",
+    "timestamp": "2026-10-16T00:40:35.334629+00:00"
+  },
+  {
+    "id": "66903207-9f49-43ad-8aa8-2657662c3394",
+    "customer_id": "6e366278-11b7-440a-8f73-f9fae35cd709",
+    "amount": 181.43,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-16T01:34:35.334629+00:00"
+  },
+  {
+    "id": "41d75cbb-0c25-44f8-9078-8ca5bc6f78f4",
+    "customer_id": "b15161e9-411a-46f2-b636-d420188f6a1f",
+    "amount": 266.41,
+    "merchant": "Best Buy",
+    "country": "DE",
+    "timestamp": "2026-10-16T01:50:35.334629+00:00"
+  },
+  {
+    "id": "b9b761b7-2d88-458b-84ea-c84cc7a6686c",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 69.11,
+    "merchant": "Marriott",
+    "country": "AU",
+    "timestamp": "2026-10-16T03:39:35.334629+00:00"
+  },
+  {
+    "id": "570eb383-c2aa-40f1-a748-35a23a69fd54",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 195.68,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-16T04:23:35.334629+00:00"
+  },
+  {
+    "id": "69a2aa87-81e0-4f80-9a46-133bfccb2b89",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 126.94,
+    "merchant": "Home Depot",
+    "country": "IN",
+    "timestamp": "2026-10-16T05:19:35.334629+00:00"
+  },
+  {
+    "id": "5f02b6b2-6a2a-4aaa-886f-68798c5605d6",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 46.56,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-16T05:28:35.334629+00:00"
+  },
+  {
+    "id": "4f507045-f79e-412a-b1de-3f76688d575c",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 5,
+    "merchant": "Target",
+    "country": "GB",
+    "timestamp": "2026-10-16T06:46:35.334629+00:00"
+  },
+  {
+    "id": "0c628ece-0d6b-4aaa-b164-ad8f927b39da",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 230.01,
+    "merchant": "Walmart",
+    "country": "IN",
+    "timestamp": "2026-10-16T06:57:35.334629+00:00"
+  },
+  {
+    "id": "41e03d77-eb8a-43a3-81fc-fa09f17f0588",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 111.93,
+    "merchant": "Target",
+    "country": "AU",
+    "timestamp": "2026-10-16T07:16:35.334629+00:00"
+  },
+  {
+    "id": "b51bba3b-db17-4cbd-a433-ab35e393acf4",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 237.08,
+    "merchant": "Amazon",
+    "country": "US",
+    "timestamp": "2026-10-16T07:49:35.334629+00:00"
+  },
+  {
+    "id": "313004e4-da51-404e-b8de-f75efdf591ed",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 107.58,
+    "merchant": "Apple Store",
+    "country": "SG",
+    "timestamp": "2026-10-16T08:06:35.334629+00:00"
+  },
+  {
+    "id": "0310dd86-8fe5-4739-aaf1-7772a9b7e5ff",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 280.91,
+    "merchant": "Home Depot",
+    "country": "IN",
+    "timestamp": "2026-10-16T08:21:35.334629+00:00"
+  },
+  {
+    "id": "615dd868-e1c1-4338-8495-3c5d99bc41b8",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 98.6,
+    "merchant": "Uber",
+    "country": "IN",
+    "timestamp": "2026-10-16T08:29:35.334629+00:00"
+  },
+  {
+    "id": "6a0ed143-b126-43d8-b1e5-7780ce3e6d30",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 125.6,
+    "merchant": "Uber",
+    "country": "DE",
+    "timestamp": "2026-10-16T08:48:35.334629+00:00"
+  },
+  {
+    "id": "ae7f28bc-b90d-4f69-9204-b4c7fe89353f",
+    "customer_id": "46e20dec-0f4b-4233-9966-9be7849b6254",
+    "amount": 4209.17,
+    "merchant": "Home Depot",
+    "country": "KP",
+    "timestamp": "2026-10-16T12:37:35.334629+00:00"
+  },
+  {
+    "id": "61161902-f00f-494e-9222-0d39ccd9f5bb",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 231.84,
+    "merchant": "Starbucks",
+    "country": "IN",
+    "timestamp": "2026-10-16T12:41:35.334629+00:00"
+  },
+  {
+    "id": "dbf2a50f-5e85-469a-935b-d6952e7fa37f",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 8986.18,
+    "merchant": "Rapid Remit International",
+    "country": "AU",
+    "timestamp": "2026-10-16T14:03:35.334629+00:00"
+  },
+  {
+    "id": "f3fe4b63-f041-4f8f-81a9-4172f4f6b99e",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 121.03,
+    "merchant": "Netflix",
+    "country": "AU",
+    "timestamp": "2026-10-16T14:07:35.334629+00:00"
+  },
+  {
+    "id": "ca5fbc48-03fd-4665-a35d-741a43001ad8",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 208.95,
+    "merchant": "DoorDash",
+    "country": "US",
+    "timestamp": "2026-10-16T14:33:35.334629+00:00"
+  },
+  {
+    "id": "adaa1440-31cd-4052-89af-94c4d57bd06c",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 53.86,
+    "merchant": "Best Buy",
+    "country": "SG",
+    "timestamp": "2026-10-16T16:30:35.334629+00:00"
+  },
+  {
+    "id": "f1f583a4-b800-4a74-9867-fe6ce6c1e32a",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 64.18,
+    "merchant": "Costco",
+    "country": "SG",
+    "timestamp": "2026-10-16T16:52:35.334629+00:00"
+  },
+  {
+    "id": "8c2dd081-0577-4acd-b006-577bd744e2bf",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 216.28,
+    "merchant": "Starbucks",
+    "country": "US",
+    "timestamp": "2026-10-16T19:23:35.334629+00:00"
+  },
+  {
+    "id": "39b6c11a-23c0-4af3-bb92-12f7d6d51f7b",
+    "customer_id": "16232c08-e7b1-4a96-bc94-5dd9171d5ba6",
+    "amount": 2883.61,
+    "merchant": "Best Buy",
+    "country": "KP",
+    "timestamp": "2026-10-16T19:32:35.334629+00:00"
+  },
+  {
+    "id": "5a7305d9-c6df-4f9e-a8db-21c62f7413bb",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 163.56,
+    "merchant": "Uber",
+    "country": "GB",
+    "timestamp": "2026-10-16T20:44:35.334629+00:00"
+  },
+  {
+    "id": "d71779fa-26e2-4e65-9a80-ba463cd9f8a1",
+    "customer_id": "d92e742f-da6e-4613-80c8-f543b79174c3",
+    "amount": 65.16,
+    "merchant": "Target",
+    "country": "DE",
+    "timestamp": "2026-10-16T20:44:35.334629+00:00"
+  },
+  {
+    "id": "f97c6093-0a49-4116-84f1-b40ff347b188",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 22.99,
+    "merchant": "Home Depot",
+    "country": "SG",
+    "timestamp": "2026-10-16T21:49:35.334629+00:00"
+  },
+  {
+    "id": "60967877-6e86-4bd2-b3a0-3f2c09e62921",
+    "customer_id": "24deaa13-8154-478e-be73-c685ad3d7cc4",
+    "amount": 131.74,
+    "merchant": "Costco",
+    "country": "GB",
+    "timestamp": "2026-10-17T00:34:35.334629+00:00"
+  },
+  {
+    "id": "b6939853-d93f-499c-b30c-c50afa3abb2d",
+    "customer_id": "bf83f13b-ef36-4b38-a60d-3be4bee02b96",
+    "amount": 238.67,
+    "merchant": "Amazon",
+    "country": "FR",
+    "timestamp": "2026-10-17T00:53:35.334629+00:00"
+  },
+  {
+    "id": "ec0e5928-232e-43e2-9e43-eeeda0262e02",
+    "customer_id": "4b2f8820-439c-489f-8380-a6031edf32ab",
+    "amount": 187.81,
+    "merchant": "Netflix",
+    "country": "AU",
+    "timestamp": "2026-10-17T01:09:35.334629+00:00"
+  },
+  {
+    "id": "b2453c55-585a-4c13-865f-cefd29b4cb74",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 125.7,
+    "merchant": "DoorDash",
+    "country": "AU",
+    "timestamp": "2026-10-17T01:13:35.334629+00:00"
+  },
+  {
+    "id": "50d52563-8bf9-4ddb-8d99-59636a7aa1a5",
+    "customer_id": "a2fe9034-9e28-478d-860a-c403c00ffdaf",
+    "amount": 170.98,
+    "merchant": "Shell",
+    "country": "AU",
+    "timestamp": "2026-10-17T01:52:35.334629+00:00"
+  },
+  {
+    "id": "41a857c0-bc9f-437d-8e1e-f345839a00bb",
+    "customer_id": "cdeb8cad-b479-401d-aa57-c1ef473d43dd",
+    "amount": 264.71,
+    "merchant": "Apple Store",
+    "country": "IN",
+    "timestamp": "2026-10-17T04:10:35.334629+00:00"
+  },
+  {
+    "id": "27c202e8-e81f-4152-8a7a-a5f8c6564060",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 146.97,
+    "merchant": "Costco",
+    "country": "SG",
+    "timestamp": "2026-10-17T04:29:35.334629+00:00"
+  },
+  {
+    "id": "d8a882f7-2a8f-45f4-b874-737b6c685933",
+    "customer_id": "b74fcd08-14d4-44d8-a19a-21e463e58aa9",
+    "amount": 67.18,
+    "merchant": "Costco",
+    "country": "SG",
+    "timestamp": "2026-10-17T05:04:35.334629+00:00"
+  },
+  {
+    "id": "6c8b19dd-c634-4af3-9b29-7e08d0c799b5",
+    "customer_id": "250c348b-9445-4fcc-9ff7-6e91ed19bcaa",
+    "amount": 127.13,
+    "merchant": "Walmart",
+    "country": "IN",
+    "timestamp": "2026-10-17T05:38:35.334629+00:00"
+  },
+  {
+    "id": "7c62c330-1378-4fb2-a7b0-dbcf7fa006d7",
+    "customer_id": "043b63bf-e17d-4e38-af29-a92fce738c91",
+    "amount": 186.64,
+    "merchant": "Best Buy",
+    "country": "US",
+    "timestamp": "2026-10-17T07:27:35.334629+00:00"
+  },
+  {
+    "id": "2b6510ab-c2c2-4f7f-96a9-2bbc6646747e",
+    "customer_id": "29e520f5-4cc2-4811-89ec-ec70ea58ab03",
+    "amount": 193.66,
+    "merchant": "Netflix",
+    "country": "CA",
+    "timestamp": "2026-10-17T09:19:35.334629+00:00"
+  },
+  {
+    "id": "38e60984-01ac-4644-bb04-73ddec8eccbb",
+    "customer_id": "21504433-a5fc-4071-a9f3-9e4fd5bd883e",
+    "amount": 65.0,
+    "merchant": "Netflix",
+    "country": "GB",
+    "timestamp": "2026-10-17T10:36:35.334629+00:00"
+  }
+]

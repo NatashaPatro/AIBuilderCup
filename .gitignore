@@ -1,0 +1,39 @@
+## Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+## Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+## Env files (never commit secrets)
+.env
+backend/.env
+frontend/.env
+*.env.local
+
+## Service account keys
+*-serviceAccount*.json
+*firebase-adminsdk*.json
+key.json
+service-account*.json
+*-key.json
+backend/service-account-key.json
+
+## Firebase
+.firebase/
+firebase-debug.log
+firestore-debug.log
+
+## IDE
+.idea/
+.vscode/
+
+## OS
+.DS_Store
+Thumbs.db
+
