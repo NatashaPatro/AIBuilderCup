@@ -6,10 +6,12 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y --no-install-recommends \
     && rm -rf /var/lib/apt/lists/*
 
-COPY requirements.txt .
+# Build context is the repo root (see DEPLOYMENT.md / cloudbuild), so paths
+# are relative to the repo root, not this backend/ folder.
+COPY backend/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY app ./app
+COPY backend/app ./app
 COPY data ./data
 
 ENV PORT=8080
